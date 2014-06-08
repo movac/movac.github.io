@@ -1,0 +1,103 @@
+body {
+	font-family: 'Lato', sans-serif;
+}
+
+/*header*/
+.movilizate {
+	background-color: green;
+}
+
+.navbar-default {
+    background-image: initial;
+    background-repeat: initial;
+    border-radius: initial;
+    box-shadow: 0px 1px 0px rgba(255, 255, 255, 0.15) inset, 0px 1px 5px rgba(0, 0, 0, 0.63);
+}
+
+.navbar-default .navbar-nav > li.movilizate > a {
+    color: white;
+}
+
+/*carousel*/
+.container .jumbotron {
+    padding-left: inherit;
+    padding-right: inherit;
+}
+
+.jumbotron {
+    padding-bottom: 15px;
+    padding-top: 15px;
+}
+
+.jumbotron p {
+    font-weight: 200;
+    margin-bottom: 15px;
+    font-size: inherit;
+}
+
+.carousel-indicators {
+    bottom: -22px;
+}
+
+.carousel-indicators li {
+    display: inline-block;
+    width: 10px;
+    height: 10px;
+    margin: 1px;
+    text-indent: -999px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    cursor: pointer;
+    background-color: transparent;
+}
+
+.carousel-indicators .active {
+    margin: 0px;
+    width: 12px;
+    height: 12px;
+    background-color: #CCC;
+}
+
+.carousel-control {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    bottom: 0px;
+    width: initial;
+    opacity: 0.5;
+    font-size: 20px;
+    color: #FFF;
+    text-align: center;
+    text-shadow: 0px 1px 2px rgba(0, 0, 0, 0.6);
+}
+
+.carousel-control.left {
+    background-image: initial;
+    background-repeat: repeat-x;
+}
+.carousel-control.right {
+    left: auto;
+    right: 0px;
+    background-image: initial;
+    background-repeat: repeat-x;
+}
+
+/*main*/
+#main {
+	
+}
+.nav-related {
+	list-style: none;
+}
+
+/*footer*/
+.footer {
+	background-color: gray;
+	margin-top: 15px;
+	padding-top: 15px;
+	color: white;
+}
+
+.footer a {
+	color: white;
+}
