@@ -1,0 +1,3 @@
+auto: true
+permalink: /:category/:title.html
+markdown: kramdown
