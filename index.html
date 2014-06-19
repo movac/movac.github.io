@@ -3,6 +3,7 @@ title: Portada
 layout: default
 ---
 <div class="row">
+  <h2 class="page-header">Registros</h2>
   
   {% for post in site.posts %}
     {% if post.categories contains 'portada' %}
@@ -18,6 +19,7 @@ layout: default
         </div>
     </div>
     {% endif %}
+    {% cycle '', '', '</div><div class="row">' %}
   {% endfor %}
 
 </div>
