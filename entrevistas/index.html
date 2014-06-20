@@ -1,0 +1,21 @@
+---
+layout: category
+title: Entrevistas
+---
+
+{% for post in site.posts %}
+    {% if post.categories contains 'entrevistas' %}
+	<div class="row">
+		<div class="col-md-3">
+			<span class="thumbnail img-category">
+				<img src="{{ post.image }}" class="img-responsive">
+			</span>
+		</div>
+		<div class="col-md-9">
+			<h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
+			<p>{{ post.excerpt }}</p>
+			<em>Publicado en {{ post.date | date_to_string }}</em>
+		</div>
+	</div>
+	{% endif %}
+{% endfor %}

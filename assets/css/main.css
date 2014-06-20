@@ -98,6 +98,10 @@ body {
 	list-style: none;
 }
 
+.imagen-articulo {
+    padding: 15px 0px 15px 15px;
+}
+
 /*footer*/
 .footer {
 	background-color: gray;
