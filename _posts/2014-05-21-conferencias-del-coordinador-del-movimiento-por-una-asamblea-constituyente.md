@@ -4,7 +4,7 @@ layout: article_entry
 title:  Conferencias del coordinador del Movimiento por una Asamblea Constituyente
 author: AC Chile
 date: 21-05-2014
-categories: [noticias, portada, videos]
+categories: [videos]
 published: true
 image: http://www.asambleaconstituyentechile.cl/wp-content/uploads/2014/05/RUZ-EN-ALBA-MOV-SOCIALES.png
 ---

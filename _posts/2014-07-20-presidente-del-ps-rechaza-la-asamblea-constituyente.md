@@ -13,7 +13,9 @@ La declaración de Osvaldo Andrade representa la opinión del núcleo dominante 
 
 Denunciado por Gustavo Ruz, Coordinador del Movimiento por la Asamblea Constituyente en:
 
-<iframe width="480" height="360" src="//www.youtube-nocookie.com/embed/NsNJlRYaWTg" frameborder="0" allowfullscreen></iframe>
+<div class="hidden-xs">
+  <iframe width="480" height="360" src="//www.youtube-nocookie.com/embed/NsNJlRYaWTg" frameborder="0" allowfullscreen></iframe>
+</div>
 
 No se trata de declaraciones más o declaraciones menos, sino de una estrategia profundamente continuista y conservadora del régimen instalado por la violencia hace cuatro décadas.
 

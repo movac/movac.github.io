@@ -6,6 +6,7 @@ author: AC Chile
 date: 20-07-2014
 categories: [noticias, portada]
 published: true
+image: http://img.emol.com/2013/07/20/monckeberg_163154.jpg
 ---
 
 Los presidentes de las colectividades RN y PS se reunieron para conversar sobre algunas de las principales reformas del gobierno

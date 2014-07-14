@@ -6,6 +6,7 @@ author: AC Chile
 date: 20-07-2014
 categories: [noticias, portada]
 published: true
+image: http://www.diarioelranco.cl/wp-content/uploads/2013/06/partido-socialista-logotipo.jpg
 ---
 
 Autoridades del Partido Socialista se alejan de la idea de cambiar la Constitución vía Asamblea Constituyente. 
