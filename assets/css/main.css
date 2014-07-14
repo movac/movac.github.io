@@ -36,7 +36,8 @@ body {
 }
 
 .carousel {
-    height: 275px;
+    min-height: 150px;
+    max-height: 200px;
 }
 
 .carousel-indicators {
@@ -112,4 +113,14 @@ body {
 
 .footer a {
 	color: white;
+}
+
+@media (max-width: 768px) {
+    .carousel {
+        min-height: 350px;
+        max-height: 380px;
+    }
+    .carousel-indicators {
+        bottom: -12px;
+    }
 }
