@@ -4,7 +4,7 @@ layout: article_entry
 title:  Todos por la Asamblea Constituyente el 8 de Mayo
 author: AC Chile
 date: 05-05-2014
-categories: [noticias, portada]
+categories: [noticias, portada, declaraciones]
 published: true
 image: http://www.asambleaconstituyentechile.cl/wp-content/uploads/2014/05/CAM00824-1024x768.jpg
 ---
