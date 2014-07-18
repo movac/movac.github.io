@@ -28,9 +28,9 @@ layout: article
     </div>
   </div>
 
-
-  <p>{{ content }}</p>
-  <p>{{ page.categories }}</p>
+  <div>
+    {{ content }}
+  </div>
 
   <hr>
 
@@ -38,7 +38,7 @@ layout: article
     <div id="disqus_thread"></div>
     <script type="text/javascript">
       /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
-      var disqus_shortname = 'asambleaconstituyente'; // required: replace example with your forum shortname
+      var disqus_shortname = '{{ site.disqus.shortname }}'; // required: replace example with your forum shortname
       var disqus_developer = 1;
 
       /* * * DON'T EDIT BELOW THIS LINE * * */
