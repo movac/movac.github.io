@@ -15,4 +15,5 @@ Gabriel Boric, diputado por Magallanes y ex presidente de la FECH.
 Gustavo Ruz, sociólogo y Coordinador Nacional del Movimiento por la Asamblea Constituyente.
 Manuel Antonio Garretón, sociólogo.
 
-image: http://i.imgur.com/7FdzYVQ.jpg
+<img src="http://i.imgur.com/7FdzYVQ.jpg" title="Foro nueva constitucion asamblea constituyente facso" class="img-responsive">
+
