@@ -1,5 +1,5 @@
 ---
-name: Foro Nueva Constitucion y Asamblea Constituyente
+permalink: http://constituyentechile.cl/noticias/foro-nueva-constitucion-asamblea-constituyente.html
 layout: article_entry
 title:  Foro: "Nueva Constitución y Asamblea Constituyente"
 categories: [noticias, portada, carrusel, eventos]
