@@ -4,7 +4,7 @@ layout: article_entry
 title:  Foro Nueva Constitución y Asamblea Constituyente
 categories: [noticias, portada, carrusel, eventos]
 published: true
-image: http://i.imgur.com/5uvWvoV.jpg
+image: http://www.asambleaconstituyentechile.cl/wp-content/uploads/2014/07/Facso.jpg
 ---
 
 Gabriel Boric, diputado por Magallanes y ex presidente de la FECH.
