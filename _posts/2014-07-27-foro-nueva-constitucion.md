@@ -4,7 +4,7 @@ layout: article_entry
 title:  Foro Nueva Constitución y Asamblea Constituyente
 categories: [noticias, portada, carrusel, eventos]
 published: true
-image: http://www.asambleaconstituyentechile.cl/wp-content/uploads/2014/07/Facso.jpg
+image: http://i.imgur.com/5uvWvoV.jpg
 ---
 
 Este miércoles 6 de agosto, a las 18:00 horas.
