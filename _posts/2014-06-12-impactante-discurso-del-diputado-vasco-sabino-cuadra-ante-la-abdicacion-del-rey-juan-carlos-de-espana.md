@@ -4,7 +4,7 @@ layout: article_entry
 title:  Impactante discurso del diputado vasco Sabino Cuadra ante la abdicación del Rey Juan Carlos de España
 author: AC Chile
 date: 12-06-2014
-categories: [noticias, portada, carrusel]
+categories: [noticias, portada]
 published: true
 image: http://www.asambleaconstituyentechile.cl/wp-content/uploads/2014/06/Sabino-Cuadra-Proceso-Constituyente-Vasco.png
 ---
