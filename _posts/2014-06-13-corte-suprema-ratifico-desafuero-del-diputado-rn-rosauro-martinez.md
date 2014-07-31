@@ -4,7 +4,7 @@ layout: article_entry
 title:  Corte Suprema ratificó desafuero del Diputado RN Rosauro Martínez
 author: AC Chile
 date: 13-06-2014
-categories: [noticias, portada]
+categories: [noticias]
 published: true
 image: http://www.lavozdevalpo.com/asite/wp-content/uploads/2012/01/corte-suprema.jpg
 ---
