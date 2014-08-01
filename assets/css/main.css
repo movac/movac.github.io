@@ -103,6 +103,10 @@ body {
     padding: 15px 0px 15px 15px;
 }
 
+.page-header.portada {
+    margin: 0px 0px 20px; 
+}
+
 /*footer*/
 .footer {
 	background-color: gray;
