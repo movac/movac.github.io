@@ -8,7 +8,7 @@ categories:
   - eventos
   - carrusel
 published: true
-image: "http://www.asambleaconstituyentechile.cl/wp-content/uploads/2014/07/CHILE-1-234x300.jpg"
+image: "https://farm4.staticflickr.com/3921/14620623740_7b9f98974e_o.jpg"
 ---
 
 En la ciudad de Barcelona, en Cataluña, se congregaron representantes de organizaciones de distintos países del mundo para reflexionar sobre la importancia del Poder Constituyente de los pueblos, como vía para solucionar problemas tanto a nivel local como internacional.
