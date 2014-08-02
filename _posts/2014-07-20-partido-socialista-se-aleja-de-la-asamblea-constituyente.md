@@ -4,7 +4,7 @@ layout: article_entry
 title:  Partido Socialista de aleja de la Asamblea Constituyente
 author: AC Chile
 date: 20-07-2014
-categories: [noticias, portada]
+categories: [noticias]
 published: true
 image: http://www.diarioelranco.cl/wp-content/uploads/2013/06/partido-socialista-logotipo.jpg
 ---
