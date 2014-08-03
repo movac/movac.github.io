@@ -18,3 +18,5 @@ Desde el movimiento de La Florida recalcaron que "tanto en Chile, como en muchos
 Estos y otros movimiento comunales han venido activándose en todo el país como organizaciones independientes generadas por los mismos ciudadanos de cada comuna. Tanto Ñuñoa como La Florida han venido realizando diversas actividades para informar a los habitantes de sus comunas sobre la necesidad un Proceso Constituyente. El pasado 26 de julio se desarrolló la primera Jornada Muralista en La Florida, mientras que en Ñuñoa se encuentran convocando a un Encuentro Comunal el próximo 9 de agosto.
 
 <img src="https://farm3.staticflickr.com/2926/14818267575_f391706cb0_o.jpg" title="Ñuñoa y La Florida marchan juntos por una Asamblea Constituyente" class="img-responsive">
+
+<iframe width="420" height="315" src="//www.youtube.com/embed/LgjBX9vV5Qs" frameborder="0" allowfullscreen></iframe>
