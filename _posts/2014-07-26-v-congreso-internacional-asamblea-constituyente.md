@@ -12,8 +12,8 @@ image: "https://farm4.staticflickr.com/3921/14620623740_7b9f98974e_o.jpg"
 ---
 
 "La única alternativa para Chile es una Asamblea Constituyente". 
-Para ver cualquier ponencia del Congreso aquí: http://poderconstituent.com/poder_constituent/?page_id=135 
-Para ver ponencia de Chile: http://bambuser.com/v/4791152
+Para ver todos los videos del Congreso presiona aquí: VER CONGRESO <a href="http://poderconstituent.com/poder_constituent/?page_id=135">VER CONGRESO</a>  
+Para ver ponencia de Chile: <a href="http://bambuser.com/v/4791152">VER PONENCIA CHILENA</a>
 
 En la ciudad de Barcelona, en Cataluña, se congregaron representantes de organizaciones de distintos países del mundo para reflexionar sobre la importancia del Poder Constituyente de los pueblos, como vía para solucionar problemas tanto a nivel local como internacional.
 
