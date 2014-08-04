@@ -7,7 +7,7 @@ published: true
 image: https://farm3.staticflickr.com/2926/14818267575_f391706cb0_o.jpg
 ---
 
-Los Movimiento comunales "Ñuñoa por la Asamblea Constituyente" y "Todas y Todos somos Poder Constituyente, La Florida" se unieron para marchar juntos contra el proyecto hidroeléctrico Alto Maipo. 
+Los Movimiento comunales "Ñuñoa por la Asamblea Constituyente" y "Asamblea Constituyente Todas y Todos somos Poder Constituyente, La Florida" se unieron para marchar juntos contra el proyecto hidroeléctrico Alto Maipo. 
 Ambas organizaciones reconocieron que los abusos de las empresas trasnacionales grupos económicos nacionales que lucran con el agua de nuestra cordillera solo pueden ser frenados con una Nueva Consticución que proteja los derechos de los ciudadanos y de la naturaleza. 
 Reconocieron que el Congreso nacional no tiene posibilidad de generar los cambios requeridos y que la única alternativa es una Asamblea Constituyente.
 
