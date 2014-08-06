@@ -1,6 +1,5 @@
 body {
-	/*font-family: 'Lato', sans-serif;*/
-    font-family: 'Open Sans', sans-serif;
+	font-family: 'Open Sans', sans-serif;
 }
 
 /*header*/
@@ -20,7 +19,11 @@ body {
 }
 
 .nav > li > a {
-    padding: 10px 13px;
+    padding: 15px 13px;
+}
+
+.navbar-brand {
+    font-size: 16px;
 }
 
 /*carousel*/
@@ -92,6 +95,10 @@ body {
     background-repeat: repeat-x;
 }
 
+.image-carousel {
+    max-height: 130px;
+}
+
 /*main*/
 #main {
 	
@@ -115,6 +122,25 @@ body {
 
 .page-header.portada {
     margin: 0px 0px 20px; 
+}
+
+#home-articles h3 {
+    font-size: 22px;
+}
+
+#article_related {
+    list-style: none;
+    margin-left: -40px;
+}
+
+#article_related li {
+    border-bottom: 1px solid #EEE;
+    padding: 5px;
+    margin-bottom: 1px;
+}
+
+#article_related li:hover {
+    background-color: #EEE;
 }
 
 /*footer*/

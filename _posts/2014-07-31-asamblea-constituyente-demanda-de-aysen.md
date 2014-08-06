@@ -33,5 +33,3 @@ Otro tema planteado, fue la necesidad de conformar una comisión regional autoco
 
 Publicado el 30 Julio 2014
 Escrito por Colaboradores
-
-<img src="http://www.eldivisadero.cl/media/notis/29236_descentralizacion3.jpg" title="asamblea-constituyente-principal-demanda-de-aysen-2014" class="img-responsive">

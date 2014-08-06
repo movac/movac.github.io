@@ -7,6 +7,8 @@ baseurl:
 name: Constituyente Chile
 url: http://constituyentechile.cl
 description: "Somos chilenas y chilenos decididos a ejercer efectivamente el derecho a determinar nuestro propio destino como pueblo y como nación."
+author: Constituyente Chile
+keywords: "asamblea, asamblea constituyente, constituyente chile, asamblea constiturente chile"
 
 disqus:
   shortname: asambleaconstituyente

@@ -4,7 +4,7 @@ layout: article_entry
 title:  Foro Nueva Constitución y Asamblea Constituyente
 categories: [noticias, portada, carrusel, eventos]
 published: true
-image: https://farm3.staticflickr.com/2924/14612527068_70ec9e6f10_o.jpg
+image: http://i.imgur.com/7FdzYVQ.jpg
 ---
 
 Gabriel Boric, diputado por Magallanes y ex presidente de la FECH.
@@ -14,6 +14,3 @@ Foro debate abierto a la ciudadanía. Todos y todas están invitados para este m
 
 Auditorio Pedro Ortiz, Facultad de Ciencias Sociales, Universidad de Chile.
 Av. Capitán Ignacio Carrera Pinto n°1045, Ñuñoa.
-
-<img src="http://i.imgur.com/7FdzYVQ.jpg" title="Foro nueva constitucion asamblea constituyente facso" class="img-responsive">
-

@@ -7,13 +7,32 @@ published: true
   <div class="page-header">
     <h2>{{ page.title }}</h2>
   </div>
-  <div class="row">
-    <div class="col-md-6">
-      <!--
-      <p>Autor: {{ page.author }}</p>
-      <p>Fecha: {{ page.date | date_to_string }}</p>
-      -->
+  
+  <div>
+    {% if page.image %}
+    <div id="image-article" class="hidden-xs">
+      <img src="{{page.image}}" alt="{{ page.title }}" class="img-responsive">
     </div>
+    <br>
+    {% endif %}
+
+    {{ content }}
+
+    {% if page.youtube %}
+    <br>
+    <div id="youtube">
+      <div class="hidden-xs">
+        <iframe width="420" height="315" src="//www.youtube.com/embed/{{page.youtube}}" frameborder="0" allowfullscreen></iframe>
+      </div>
+      <div class="visible-xs">
+        <a href="//www.youtube.com/embed/{{page.youtube}}"><i class="fa fa-youtube"></i> Ver vídeo</a>
+      </div>
+    </div>
+    <hr>
+    {% endif %}
+  </div>
+
+  <div class="row">
     <div class="col-md-6">
       <div class="social-buttons">
         <!-- AddThis Button BEGIN -->
@@ -30,10 +49,6 @@ published: true
         <!-- AddThis Button END -->
       </div>
     </div>
-  </div>
-
-  <div>
-    {{ content }}
   </div>
 
   <hr>

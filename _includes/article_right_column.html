@@ -1,0 +1,22 @@
+<div>
+  <div class="page-header">
+    <h3>Otros artículos</h3>
+  </div>
+
+  <ul id="article_related">
+    {% for post in site.related_posts %}
+      {% if post.layout contains 'article_entry' %}
+    <li><a href="{{site.url}}{{post.permalink}}">{{post.title}}</a></li>
+      {% endif %}
+    {% endfor %}
+  </ul>
+</div>
+
+<div id="timeline">
+  <div class="page-header">
+    <h3>Redes</h3>
+  </div>
+  <a class="twitter-timeline"  href="https://twitter.com/search?q=constituyentechile"  data-widget-id="497043296078659585">Tweets about "constituyentechile"</a>
+  <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+</div>
+
