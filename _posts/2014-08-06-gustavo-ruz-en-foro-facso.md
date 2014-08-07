@@ -18,4 +18,4 @@ Entre los expositores estuvieron: Gustavo Ruz Zañartu, sociólogo coordinador d
 
 El debate fue intenso y se discutió sobre cómo avanzar en el Proceso Constituyente que ya está en curso.
 
-[<img src="https://farm4.staticflickr.com/3923/14665820529_6d9fdb044b_o.png" alt="Gustavo Ruz en Foro FACSO 2014" class="img-responsive">](http://www.ustream.tv/recorded/51020902)
+[<img src="https://farm6.staticflickr.com/5581/14666244158_6ef5655c66_o.png" alt="Gustavo Ruz en Foro FACSO 2014" class="img-responsive">](http://www.ustream.tv/recorded/51020902)
