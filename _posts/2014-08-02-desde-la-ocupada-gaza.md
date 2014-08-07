@@ -2,7 +2,7 @@
 permalink: /noticias/desde-la-ocupada-gaza.html
 layout: article_entry
 title:  Desde la ocupada y asediada Gaza: todos y todas a la calle el sábado 9 de agosto.
-categories: [noticias, portada, eventos]
+categories: [noticias, portada]
 published: true
 image: https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQhAJtoKXUGqKkqXdXpfvogIqwzl6gG_XHsHJkC_4T6Gu9oWzr-Cw
 ---
