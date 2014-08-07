@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="es" prefix="og: http://ogp.me/ns#">
+<html lang="es" prefix="og: http://ogp.me/ns#" itemscope itemtype="http://schema.org/Article">
 <head>
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -12,14 +12,29 @@
   <meta property="og:type" content="website" />
   <meta property="og:url" content="{{site.url}}{% if page.permalink %}{{ page.permalink }}{% endif %}" />
   <meta property="og:image" content="{{site.url}}/assets/images/logoasambleaconstituyente.png" />
-  {% if page.image %}<meta property="og:image" content="{{page.image}}" />{% endif %}
+  {% if page.image %}<meta property="og:image" content="{{ page.image }}" />{% endif %}
   <!-- end facebook shit-->
+  <!-- twitter card -->
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:site" content="{{ site.twitter.username }}">
+  <meta name="twitter:title" content="{% if page.title %}{{ page.title }} - {% endif %}{{site.name}}">
+  <meta name="twitter:description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | truncate:200 }}{% else %}{{site.description}}{% endif %}">
+  <meta name="twitter:creator" content="{{ site.twitter.username }}">
+  {% if page.image %}<meta name="twitter:image" content="{{ page.image }}" />{% endif %}
+  <!-- end twitter card -->
+  <!-- Schema.org markup for Google+ -->
+  <meta itemprop="name" content="{% if page.title %}{{ page.title }} - {% endif %}{{site.name}}">
+  <meta itemprop="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | truncate:200 }}{% else %}{{site.description}}{% endif %}">
+  <meta itemprop="image" content="{% if page.image %}{{ page.image }}{% else %}{{site.url}}/assets/images/logoasambleaconstituyente.png{% endif %}">
+
+  <!-- end Google+ -->
   <title>{% if page.title %}{{ page.title }} - {% endif %}{{site.name}}</title>
   <link href="//netdna.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet">
   <link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap.min.css">
   <link rel="stylesheet" href="/assets/css/main.css">
   <script src="//code.jquery.com/jquery-1.11.1.min.js"></script>
   <script src="//netdna.bootstrapcdn.com/bootstrap/3.1.1/js/bootstrap.min.js"></script>
+  <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-5394a30435782733"></script>
   <script type="text/javascript">
     if($('.carousel').length)
     {
