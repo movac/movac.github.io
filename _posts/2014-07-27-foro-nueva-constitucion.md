@@ -2,7 +2,7 @@
 permalink: /noticias/foro-nueva-constitucion-asamblea-constituyente.html
 layout: article_entry
 title:  Foro Nueva Constitución y Asamblea Constituyente
-categories: [noticias, portada, carrusel, eventos]
+categories: [noticias, portada, eventos]
 published: true
 image: http://i.imgur.com/7FdzYVQ.jpg
 ---
