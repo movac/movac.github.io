@@ -9,7 +9,7 @@ published: true
 image: "https://farm4.staticflickr.com/3923/14665820529_6d9fdb044b_o.png"
 ---
 
-Para ver el Foro completo presione aquí: [VER FORO](http://www.ustream.tv/recorded/51020902).
+Para ver el Foro completo presione aquí: [VER FORO](http://www.ustream.tv/recorded/51020902)
 Recalcando el hecho de que "el Poder Constituyente Originario somos todos los ciudadanos", Gustavo Ruz, Coordinador del Movimiento por la Asamblea Constituyente comenzó su exposición. Ruz fue categórico al señalar que el Congreso binominal no es el poder constituyente ni puede usurparlo como lo hiciera la junta militar en 1980, esto sería un "acto ilegítimo y no intitucional" al no estar contemplado en la Constitución actual. 
 
 En el Auditorio Pedro Ortíz de la Facultad de Ciencias Sociales de la Universidad de Chile, con un lleno total se congregaron más de 130 asistentes que participaron haciendo preguntas a los panelistas. 
