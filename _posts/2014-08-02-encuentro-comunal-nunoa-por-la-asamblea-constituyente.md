@@ -2,7 +2,7 @@
 permalink: /noticias/encuentro-comunal-ñuñoa-por-la-asamblea-constituyente.html
 layout: article_entry
 title:  Convocan Encuentro Comunal de Ñuñoa por la Asamblea Constituyente.
-categories: [portada, eventos, carrusel]
+categories: [portada, eventos]
 published: true
 image: https://farm6.staticflickr.com/5589/14807243715_fdf6b1b354_o.jpg
 ---
