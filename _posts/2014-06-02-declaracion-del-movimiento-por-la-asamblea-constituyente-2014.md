@@ -4,7 +4,7 @@ layout: article_entry
 title:  Declaración del Movimiento por la Asamblea Constituyente 2014
 author: AC Chile
 date: 12-06-2014
-categories: [noticias]
+categories: [noticias, carrusel]
 published: true
 image: http://www.asambleaconstituyentechile.cl/wp-content/uploads/2014/06/BOTON-VIDEO-DECLARACION1-300x139.png
 ---
