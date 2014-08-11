@@ -5,7 +5,6 @@ title:  Panel: Asamblea Constituyente en Chile, los caminos a seguir.
 categories: [portada, eventos]
 published: true
 image: https://farm4.staticflickr.com/3848/14702041728_ae3338521d_o.jpg
-youtube: 
 ---
 
 Panelistas: Carla Amtmann, Genaro Cuadros, Fernando Atria, Esteban Silva y Sergio Grez.
