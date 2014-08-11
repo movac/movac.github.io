@@ -1,7 +1,7 @@
 ---
 permalink: /noticias/panel-asamblea-constituyente-en-chile-caminos-a-seguir.html
 layout: article_entry
-title:  Panel: "Asamblea Constituyente en Chile, los caminos a seguir".
+title:  Panel: Asamblea Constituyente en Chile, los caminos a seguir.
 categories: [portada, eventos]
 published: true
 image: https://farm4.staticflickr.com/3848/14702041728_ae3338521d_o.jpg
