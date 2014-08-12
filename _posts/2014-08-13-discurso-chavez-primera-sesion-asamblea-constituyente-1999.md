@@ -10,8 +10,8 @@ image: https://farm4.staticflickr.com/3855/14898903102_82caf37089_o.png
 youtube: mqEegWFtMRI
 ---
 
-VER VIDEO Discurso de Chávez en la Asamblea Nacional Constituyente
-Caracas, 5 de agosto de 1999
+Discurso de Chávez en la Asamblea Nacional Constituyente
+Caracas, 5 de agosto de 1999. VER VIDEO 
 
 <iframe width="420" height="315" src="//www.youtube.com/embed/mqEegWFtMRI" frameborder="0" allowfullscreen></iframe>
  
