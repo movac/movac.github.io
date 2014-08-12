@@ -6,7 +6,7 @@ categories:
   - internacional
   - portada
 published: true
-image: 
+image: https://farm4.staticflickr.com/3855/14898903102_82caf37089_o.png
 youtube: mqEegWFtMRI
 ---
 
