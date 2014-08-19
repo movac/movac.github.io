@@ -9,7 +9,9 @@ published: true
 image: "https://farm4.staticflickr.com/3861/14786435420_fa52f391c0_s.jpg"
 ---
 
+"...De allí la necesidad de una respuesta contundente, ciudadana y también mundial. De allí la necesidad de enfrentar este enorme poder: millones de personas unidas poniendo límites a la economía y poniéndola al servicio de los ciudadanos y no los ciudadanos al servicio de la economía. Esa idea toma fuerza en los procesos constituyentes..."
 24 de junio de 2012, Ciudad de México.
+
 CONCLUSIONES GENERALES
 1er CONGRESO INTERNACIONAL: 
 ASAMBLEA CONSTITUYENTE, UNA VÍA PARA ENFRENTAR LA CRISIS MUNDIAL
