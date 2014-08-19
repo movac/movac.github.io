@@ -6,7 +6,7 @@ categories:
   - portada
   - internacional
 published: true
-image: "<iframe src="https://www.flickr.com/photos/125792167@N07/14786435420/in/photostream/player/" width="75" height="75" frameborder="0" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>"
+image: "https://farm4.staticflickr.com/3861/14786435420_fa52f391c0_s.jpg"
 ---
 
 24 de junio de 2012, Ciudad de México.
