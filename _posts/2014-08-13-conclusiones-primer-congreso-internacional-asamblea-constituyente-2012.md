@@ -3,12 +3,10 @@ permalink: "/noticias/conclusiones-primer-congreso-internacional-asamblea-consti
 layout: article_entry
 title: "Conclusiones 1er Congreso Internacional: Asamblea Constituyente, una vía para enfrentar la crisis mundial"
 categories: 
-  - noticias
   - portada
-  - eventos
   - internacional
 published: true
-image: "https://farm4.staticflickr.com/3921/14620623740_7b9f98974e_o.jpg"
+image: "<iframe src="https://www.flickr.com/photos/125792167@N07/14786435420/in/photostream/player/" width="75" height="75" frameborder="0" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>"
 ---
 
 24 de junio de 2012, Ciudad de México.
