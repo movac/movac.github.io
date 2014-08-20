@@ -1,11 +1,12 @@
 ---
 permalink: "/noticias/el-genocidio-indigena-que-la-historia-intento-ocultar.html"
 layout: article_entry
-title: El genocidio de indígenas en el sur de Chile que la historia oficial intentó ocultar..
+title: "El genocidio de indígenas en el sur de Chile que la historia oficial intentó ocultar."
 categories: 
-  - internacional
+  - portada
+  - noticias
 published: true
-image: https://mail.google.com/mail/u/0/?ui=2&ik=abbdb6ba71&view=att&th=147d55d0a4266b24&attid=0.3&disp=emb&zw&atsh=1
+image: "https://mail.google.com/mail/u/0/?ui=2&ik=abbdb6ba71&view=att&th=147d55d0a4266b24&attid=0.3&disp=emb&zw&atsh=1"
 youtube: 
 ---
 
