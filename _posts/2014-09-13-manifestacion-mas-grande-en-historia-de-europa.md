@@ -8,7 +8,7 @@ categories:
   - noticias
 published: true
 image: https://ci3.googleusercontent.com/proxy/eB1PohCit6I_PRvONbwhpl1II36F3Uy6kUWE85XExUsIy0cxOXQjiEba2Uwyir0E0fGMosUrxfBWpHexWIkywlLs-ETXKskpf3CSzn0ovSeUFeX_TktIecJtxpimLaJrap2D4c3tem5g=s0-d-e1-ft#http://imagenes.publico.es/resources/archivos/2014/9/11/1410455302136mani-galc4.jpg
-youtube: G5Dj5UU-xSg&feature=youtu.be&list=UUhdU-4cROwbjuvseWxnUxDg
+youtube: UUhdU-4cROwbjuvseWxnUxDg
 ---
 
 Catalunya logra la manifestación más masiva de la historia
