@@ -5,7 +5,6 @@ title: FORO "¿QUÉ QUERÍAMOS HACER EN 1973?"
 categories: 
   - noticias
   - portada
-  - carrusel
 published: true
 image: "http://www.chile21.cl/wp-content/uploads/2014/09/foro1973.jpg"
 ---
