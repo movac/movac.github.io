@@ -6,7 +6,7 @@ categories:
   - portada
   - noticias
 published: true
-image: 
+image: https://fbcdn-sphotos-e-a.akamaihd.net/hphotos-ak-xap1/v/t1.0-9/1918642_216491566396_1849146_n.jpg?oh=d3c8c8d265ad9b82b4f614680f7bb71d&oe=54C911B1&__gda__=1422811271_b2c6af630bfb65c5743edf7dd746ae8a
 ---
 
 <h3>CONSTRUYENDO PROCESO CONSTITUYENTE</h3>
