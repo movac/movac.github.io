@@ -7,7 +7,7 @@ categories:
   - portada
   - carrusel
 published: true
-image: https://fbcdn-sphotos-e-a.akamaihd.net/hphotos-ak-xap1/v/t1.0-9/1918642_216491566396_1849146_n.jpg?oh=d3c8c8d265ad9b82b4f614680f7bb71d&oe=54C911B1&__gda__=1422811271_b2c6af630bfb65c5743edf7dd746ae8a
+image: https://scontent-b-mia.xx.fbcdn.net/hphotos-xap1/v/t1.0-9/10649730_10152701413481397_5769166916815056899_n.jpg?oh=1468be7a472b258fcc02ef8c4b93d786&oe=54842D2F
 ---
 
 Inscríbete aquí como alumno de la IV Escuela Ciudadana por una Asamblea Constituyente "CONSTRUYENDO PROCESO CONSTITUYENTE".También puedes enviarnos tus datos de inscripción al correo escuelaconstituyente2014@gmail.com. Fono consultas: 73394740. 
