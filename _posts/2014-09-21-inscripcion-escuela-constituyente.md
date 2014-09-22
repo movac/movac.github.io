@@ -1,7 +1,7 @@
 ---
 permalink: "/noticias/escuela-constituyente.html"
 layout: article_entry
-title: Inscripción, Escuela Ciudadana por una Asamblea Constituyente 2014
+title: Inscripción, Escuela Ciudadana por una Asamblea Constituyente 11 y 12 de octubre.
 categories: 
   - noticias
   - portada
