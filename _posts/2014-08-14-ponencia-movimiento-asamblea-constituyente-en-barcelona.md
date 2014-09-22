@@ -4,7 +4,7 @@ layout: article_entry
 title:  Ponencia del Movimiento Constituyente chileno en Barcelona 2014.
 author: AC Chile
 date: 12-06-2014
-categories: [noticias, carrusel, videos, internacional, portada]
+categories: [noticias, videos, internacional, portada]
 published: true
 image: http://www.asambleaconstituyentechile.cl/wp-content/uploads/2014/06/BOTON-VIDEO-DECLARACION1-300x139.png
 ---
