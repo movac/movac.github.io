@@ -26,6 +26,5 @@ Expositores nacionales e internacionales serán parte de la jornada de capacitac
 
 <iframe src="https://docs.google.com/forms/d/1iV6MVOzOmck0OmYgM1oeY8sHyxhk-Dc8cAuhHuVK1t0/viewform?embedded=true" width="760" height="900" frameborder="0" marginheight="0" marginwidth="0">Cargando...</iframe>
 
-<a href="/escuela/">Inscripción</a>
 
 <a href="/escuela/programa.html">Programa</a>
