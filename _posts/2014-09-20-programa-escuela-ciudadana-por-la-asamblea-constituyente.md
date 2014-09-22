@@ -6,7 +6,7 @@ categories:
   - portada
   - noticias
 published: true
-image: https://www.flickr.com/photos/125792167@N07/15173241962/in/photostream/lightbox/
+image: https://scontent-b-mia.xx.fbcdn.net/hphotos-xap1/v/t1.0-9/10649730_10152701413481397_5769166916815056899_n.jpg?oh=1468be7a472b258fcc02ef8c4b93d786&oe=54842D2F
 ---
 
 <h3>CONSTRUYENDO PROCESO CONSTITUYENTE</h3>
