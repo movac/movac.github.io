@@ -1,9 +1,15 @@
 ---
-layout: category
-title: 'Programa 4ta Escuela Ciudadana por la Asamblea Constituyente'
+permalink: "/noticias/el-genocidio-indigena-que-la-historia-intento-ocultar.html"
+layout: article_entry
+title: 'Programa IV Escuela Ciudadana por la Asamblea Constituyente'
+categories: 
+  - portada
+  - noticias
+published: true
+image: 
 ---
 
-<h3>Construyendo Proceso Constituyente</h3>
+<h3>CONSTRUYENDO PROCESO CONSTITUYENTE</h3>
 
 <p>11 y 12 de octubre de 2014</p>
 <p>Auditorio principal, Universidad Academia de Humanismo Cristiano.</p>
