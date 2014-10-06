@@ -1,5 +1,5 @@
 ---
-permalink: "/noticias/el-genocidio-indigena-que-la-historia-intento-ocultar.html"
+permalink: "/noticias/programa-escuela-ciudadana-por-una-asamblea-constituyente.html"
 layout: article_entry
 title: 'Programa IV Escuela Ciudadana por la Asamblea Constituyente'
 categories: 
