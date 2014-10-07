@@ -5,7 +5,7 @@ title: Los Derechos Humanos en el primer semestre de Bachelet.
 categories: 
   - noticias
   - portada
-published: false
+published: true
 image: http://launionmc.files.wordpress.com/2013/12/bachelet.jpg?w=470&h=313
 ---
 
