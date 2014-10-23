@@ -4,7 +4,6 @@ layout: article_entry
 title: Inscripción, Escuela Ciudadana por una Asamblea Constituyente 11 y 12 de octubre.
 categories: 
   - noticias
-  - portada
   - carrusel
 published: true
 image: https://scontent-b-mia.xx.fbcdn.net/hphotos-xap1/v/t1.0-9/10649730_10152701413481397_5769166916815056899_n.jpg?oh=1468be7a472b258fcc02ef8c4b93d786&oe=54842D2F
