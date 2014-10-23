@@ -26,3 +26,7 @@ En junio de 1987 se presenta en los Tribunales de Justicia exigiendo su derecho 
 Publicado por http://diarioelmorro.cl/archives/46136, oct 22, 2014 
 
 En la ciudad de Antofagasta también se realizarán actividades donde Ruz intentará dar impulso a la ciudadanía local para luchar por una Asamblea Constituyente.
+
+<div class="hidden-xs">
+	<iframe width="853" height="480" src="//www.youtube.com/embed/I77H_BAxYrc" frameborder="0" allowfullscreen></iframe>
+</div>
