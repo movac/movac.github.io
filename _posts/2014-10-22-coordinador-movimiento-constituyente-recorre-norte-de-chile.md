@@ -35,7 +35,7 @@ En junio de 1987 se presenta en los Tribunales de Justicia exigiendo su derecho 
 
 Publicado por http://diarioelmorro.cl/archives/46136, oct 22, 2014 
 
-En la ciudad de Antofagasta también se realizarán actividades donde Ruz intentará dar impulso a la ciudadanía local para luchar por una Asamblea Constituyente.
+La Gira por una Asamblea Constituyente incluye también actividades de debate ciudadano en Arica, Antofagasta, Calama, Tocopilla y otras localidades, donde se busca que se organice la ciudadanía para impulsar un verdadero Proceso Constituyente nacional donde todos los chilenos seamos parte de la determinación de nuestro destino como pueblos, redactando una nueva COnstitución Política fruto del debate ciudadano, colectivo y democrático en cada rincón del país. 
 
 <div class="hidden-xs">
 	<iframe width="853" height="480" src="//www.youtube.com/embed/I77H_BAxYrc" frameborder="0" allowfullscreen></iframe>
