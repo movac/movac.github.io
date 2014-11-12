@@ -5,7 +5,6 @@ title: Coordinador del Movimiento por la Asamblea Constituyente recorre el norte
 categories: 
   - noticias
   - portada
-  - carrusel
 published: true
 image: http://diarioelmorro.cl/wp-content/uploads/2014/10/asamblea-constituyente-coordinador-nacional-400x242.jpg
 youtube: 
