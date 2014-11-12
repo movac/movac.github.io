@@ -7,7 +7,7 @@ categories:
   - portada
   - carrusel
 published: true
-image: https://mail.google.com/mail/u/0/?ui=2&ik=abbdb6ba71&view=fimg&th=149a208ec417a927&attid=0.1&disp=emb&attbid=ANGjdJ9A1isNlGRjTwwmf68zsElUEQ8VI7EFA42xeoUAgcCtb3N5FdKSUqvY9L5NSXQtQKRhIHJcTrOVp48EeyerBLTSxgShW3fMD4xxaWRMwP93svPvYPr-lLZe5c4&sz=w1600-h1000&ats=1415803098288&rm=149a208ec417a927&zw&atsh=1
+image: https://fbcdn-sphotos-f-a.akamaihd.net/hphotos-ak-xap1/v/t1.0-9/p320x320/10730840_10152814117951397_6263579253497085086_n.png?oh=64345838a7e358f3e5c976750606f65c&oe=54DFA914&__gda__=1424308399_7704a397571e61b51e6a0ed2f737c891
 youtube: 
 ---
 ¡¡SIN ASAMBLEA CONSTITUYENTE NO HAY NUEVA CONSTITUCIÓN!!
