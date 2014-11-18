@@ -11,7 +11,7 @@ youtube:
 ---
 
 Organizaciones ciudadanas debaten sobre Asamblea Constituyente en Iquique.
-“El Camino a la Asamblea Constituyente en Chile” es el nombre de la conferencia de información y debate que dictará el sociólogo Gustavo Ruz Zañartu, Coordinador Nacional del Movimiento Asamblea Constituyente, en la ciudad de Arica, este jueves 23 de octubre.
+“El Camino a la Asamblea Constituyente en Chile” es el nombre de la conferencia de información y debate que dictará el sociólogo Gustavo Ruz Zañartu, Coordinador Nacional del Movimiento Asamblea Constituyente, en la ciudad de Arica, este jueves 23 de octubre. 
 
 Ruz Zañartu, licenciado en sociología de la Universidad de Chile, ha realizado conferencias en todo el país, así como numerosos congresos y seminarios en Europa y América Latina sobre las Asambleas Constituyentes, desempeñándose como coordinador nacional del movimiento desde 2007.
 
