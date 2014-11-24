@@ -1,7 +1,7 @@
 ---
 permalink: "/noticias/manifiesto-apoyo-marcha-23-noviembre.html"
 layout: article_entry
-title: MANIFIESTRO DE APOYO A LA MARCHA DEL 23 DE NOVIEMBRE.
+title: MANIFIESTO DE APOYO A LA MARCHA DEL 23 DE NOVIEMBRE.
 categories: 
   - noticias
   - portada
