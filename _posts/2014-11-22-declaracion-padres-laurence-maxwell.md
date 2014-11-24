@@ -5,7 +5,6 @@ title: DECLARACION DE LOS PADRES DE LAURENCE MAXWELL ILABACA, estudiante detenid
 categories: 
   - noticias
   - portada
-  - carrusel
 published: true
 image: http://www.radiovillafrancia.cl/wp-content/uploads/2014/11/maxwell-libertad-Mexico.jpg
 youtube: 
