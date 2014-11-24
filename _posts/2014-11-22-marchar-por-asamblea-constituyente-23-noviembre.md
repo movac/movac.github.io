@@ -5,7 +5,6 @@ title: A MARCHAR TODOS JUNTOS POR UNA ASAMBLEA CONSTITUYENTE ESTE 23 DE NOVIEMBR
 categories: 
   - noticias
   - portada
-  - carrusel
 published: true
 image: https://fbcdn-sphotos-f-a.akamaihd.net/hphotos-ak-xap1/v/t1.0-9/p320x320/10730840_10152814117951397_6263579253497085086_n.png?oh=64345838a7e358f3e5c976750606f65c&oe=54DFA914&__gda__=1424308399_7704a397571e61b51e6a0ed2f737c891
 youtube: 
