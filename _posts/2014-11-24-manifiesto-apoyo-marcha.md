@@ -5,7 +5,6 @@ title: MANIFIESTO DE APOYO A LA MARCHA DEL 23 DE NOVIEMBRE.
 categories: 
   - noticias
   - portada
-  - carrusel
 published: true
 image: https://fbcdn-sphotos-c-a.akamaihd.net/hphotos-ak-xpa1/v/t1.0-9/10350354_10152834008936397_1210076032516805805_n.jpg?oh=da69b663c2049e1cfb63920acba52b1a&oe=54D9C897&__gda__=1423043201_0667adbaab7845ab61943d2042d0b85a
 youtube: 
