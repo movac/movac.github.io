@@ -5,7 +5,6 @@ title: ASAMBLEA CONSTITUYENTE RECIBE APOYO TRANSVERSAL EN MARCHAS A LO LARGO DEL
 categories: 
   - noticias
   - portada
-  - carrusel
 published: true
 image: https://scontent-a.xx.fbcdn.net/hphotos-xpa1/v/t1.0-9/s526x296/10429389_10152839004006397_1843981225462752593_n.jpg?oh=9d1b492dda38c6601137f934d9275fea&oe=5510AC0E
 youtube: 
