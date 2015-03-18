@@ -7,14 +7,14 @@ categories:
   - portada
   - carrusel
 published: true
-image: https://fbcdn-sphotos-b-a.akamaihd.net/hphotos-ak-xfp1/v/t1.0-9/10954512_10153118345726397_8252400781980503973_n.png?oh=a3345388cfa25bf46c88a3a3dd86b83b&oe=55811820&__gda__=1437867845_600e42393614a044f2315a3de70dbd8c
+image: https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xpf1/v/t1.0-9/10154946_10153123610801397_1312947460826590940_n.jpg?oh=f554a2f24667186302d82f437fae5556&oe=55740E6A&__gda__=1433935381_a0a056e6985261b345a29e1cac7f9b3c
 youtube: 
 ---
 
 Este jueves 26 de marzo en la ciudad de Curicó, los ciudadanos se reunirán para analizar cómo avanzar hacia una Asamblea Constituyente en Chile. A través de una Escuela Ciudadana que funcionará durante todo el año, se impulsará la formación de un movimiento constituyente sólido en la provincia de Curicó.
 Expondrán en esta jornada inaugural, el profesor Matías Sagredo del Movimiento por la Asamblea Constituyente y el historiador Sergio Grez de la organización Foro por la Asamblea Constituyente.
 
-Lugar: Centro de Extención UCM, Pratt 220, Curicó.
+Lugar: Centro de Extención Universidad de Talca, Merced 437, Curicó.
 
 Invita Movimiento por la Asamblea Constituyente Curicó.
 
