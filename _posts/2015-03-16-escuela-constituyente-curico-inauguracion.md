@@ -7,7 +7,7 @@ categories:
   - portada
   - carrusel
 published: true
-image: https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xpf1/v/t1.0-9/10154946_10153123610801397_1312947460826590940_n.jpg?oh=f554a2f24667186302d82f437fae5556&oe=55740E6A&__gda__=1433935381_a0a056e6985261b345a29e1cac7f9b3c
+image: https://scontent.xx.fbcdn.net/hphotos-xap1/v/t1.0-9/s526x395/11083868_10153135393921397_9050462484036544555_n.jpg?oh=6667566e6671de58d2928a833409e156&oe=55B9D830
 youtube: 
 ---
 
