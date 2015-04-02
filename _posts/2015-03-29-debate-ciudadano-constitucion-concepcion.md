@@ -1,7 +1,7 @@
 ---
 permalink: "/noticias/debate-ciudadano-constitucion-chile.html"
 layout: article_entry
-title: DEBATE CIUDADANO: LA CONSTITUCIÓN POLÍTICA DE CHILE.
+title: DEBATE CIUDADANO LA CONSTITUCIÓN POLÍTICA DE CHILE.
 categories: 
   - noticias
   - portada
@@ -11,9 +11,8 @@ image: https://mail.google.com/mail/u/0/?ui=2&ik=abbdb6ba71&view=fimg&th=14c5c4f
 youtube: 
 ---
 
-Este Lunes 30 en el Tribunal de Justicia de Concepción se realizará el Debate Ciudadano sobre la Constitución Política y su forma de cambiarla en el Chile actual. La Asamblea Constituyente y su forma de avanzar hacia su realización.
-Exponen: 
+El pasado Lunes 30 de marzo en el Tribunal de Justicia de Concepción se realizó el Debate Ciudadano sobre la Constitución Política y su forma de cambiarla en el Chile actual. La Asamblea Constituyente y su forma de avanzar hacia su realización.
+Conferencia central: 
 Gustavo Ruz, Coordinador nacional del Movimiento por la Asamblea Constituyente
-Danny Monsalve, Doctor en Historia.
 Hora: 18:30 hrs.
-Organizan: Marca AC Concepción - Plebiscito Ahora Concepción.
+Organió: Marca AC Concepción - Plebiscito Ahora Concepción.
