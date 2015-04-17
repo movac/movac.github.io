@@ -5,7 +5,6 @@ title: ESCUELA CONSTITUYENTE EN CURICÓ ESTE 26 DE MARZO, inscríbete.
 categories: 
   - noticias
   - portada
-  - carrusel
 published: true
 image: https://scontent.xx.fbcdn.net/hphotos-xap1/v/t1.0-9/s526x395/11083868_10153135393921397_9050462484036544555_n.jpg?oh=6667566e6671de58d2928a833409e156&oe=55B9D830
 youtube: 
