@@ -7,7 +7,7 @@ categories:
   - portada
 published: true
 image: 
-youtube: http://img.eltipografo.cl/media/2015/04/Ex-presos-politcos.jpg
+youtube: http://img.eltipografo.cl/media/2015/04/Ex-presos-politicos-2.jpg
 ---
 
 DECLARACIÓN DE ExPP AUTOCONVOCADOS
