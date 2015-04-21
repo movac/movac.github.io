@@ -1,7 +1,7 @@
 ---
 permalink: "/noticias/escuela-ciudadana-asamblea-constituyente-curico.html"
 layout: article_entry
-title: EX PRESOS POLÍTICOS EN HUELGA DE HAMBRE.
+title: EX PRESOS POLÍTICOS SE SUMAN A LA HUELGA DE HAMBRE.
 categories: 
   - noticias
   - portada
@@ -9,6 +9,30 @@ published: true
 image: 
 youtube: http://img.eltipografo.cl/media/2015/04/Ex-presos-politicos-2.jpg
 ---
+Comunicado de Prensa.
+
+A las 12 horas del día de hoy un grupo de Ex Presos Políticos de la dictadura se tomó las oficinas de la Corporación de Promoción y Defensa de los Derechos del Pueblo –CODEPU- en paseo Bulnes 188, oficina 62, para iniciar una huelga de hambre indefinida.
+
+Este grupo de compañeros se suma solidariamente al movimiento de huelguistas que se inició el día 13 de abril de 2015 en las ciudades de Rancagua, San Felipe, Osorno y Valparaíso.
+
+Esta movilización se realiza  para llamar la atención de las autoridades por la nula respuesta de ellos ante las demandas planteadas por los ex Presos Políticos desde hace mucho tiempo, las cuales son las siguientes.
+
+1-    Indemnización a cada uno de los expresos políticos de Chile reconocidos por el estado, que fueron detenidos y torturados durante el periodo de la dictadura de Pinochet.
+
+2-    Mejora de las pensiones que actualmente reciben los  Ex Presos políticos, las cuales son muy bajas.
+
+3-    Eliminación de la incompatibilidad de las pensiones Valech y Exonerados Políticos.
+
+4-    Creación a la brevedad de una instancia de calificación permanente de las víctimas de la dictadura. En la segunda apertura de esta ley quedaron fuera cerca de 22 mil compañeros.
+
+Hacemos un llamado a las autoridades para que se abran al diálogo con el movimiento de huelguistas en forma urgente, ya que la edad promedio de los compañeros que asumieron esta acción supera los  70 años y la salud de ellos puede podría verse afectada con el paso de los días.
+Vergonzoso nos parece que violadores a los derechos humanos, condenados y recluidos por sus delitos, en cárceles de lujo, sigan recibiendo pensiones que superan con creces las pensiones que reciben los ex presos políticos y las de gran mayoría de los pensionados de nuestro país.
+Hacemos un llamado al país en su conjunto a estar atentos a los acontecimientos que se produzcan en torno a esta dura movilización.
+Movimiento de huelguistas de hambre  de la Región Metropolitana
+Contacto de prensa: Víctor Cuevas: 66578934
+Rafael Villalobos: 71081301
+Santiago, 20 de abril de 2015
+
 
 DECLARACIÓN DE ExPP AUTOCONVOCADOS
 
