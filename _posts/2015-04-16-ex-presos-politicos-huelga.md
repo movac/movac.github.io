@@ -6,8 +6,8 @@ categories:
   - noticias
   - portada
 published: true
-image: 
-youtube: http://img.eltipografo.cl/media/2015/04/Ex-presos-politicos-2.jpg
+image: http://img.eltipografo.cl/media/2015/04/Ex-presos-politicos-2.jpg
+youtube: 
 ---
 Comunicado de Prensa.
 
