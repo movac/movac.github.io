@@ -1,7 +1,7 @@
 ---
 permalink: "/noticias/escuela-ciudadana-asamblea-constituyente-curico.html"
 layout: article_entry
-title: EX PRESOS POLÍTICOS SE SUMAN A LA HUELGA DE HAMBRE.
+title: ¿DIALOGAR HASTA MORIR?, EX PRESOS POLÍTICOS EN HUELGA DE HAMBRE.
 categories: 
   - noticias
   - portada
@@ -9,6 +9,33 @@ published: true
 image: http://img.eltipografo.cl/media/2015/04/Ex-presos-politicos-2.jpg
 youtube: 
 ---
+
+¿Dialogar hasta morir?
+
+Mensaje de Nelly Cárcamo Vargas
+
+Pdta. de la Unión Nacional de Ex Presos Políticos de Chile.
+
+¡No conversamos bajo medidas de fuerza! Contesta tajantemente un representante del ejecutivo. “Estamos dispuestos a dialogar pero no aceptamos medidas de presión”, agrega.  Se escucha por supuesto muy razonable, así debería ser cuando se trata de gobiernos que acostumbran gobernar con los oídos abiertos hacia la ciudadanía que dicen representar.
+
+En Chile no contamos con Gobiernos de estas características. Los gobernantes en nuestro país tienen el sistema auditivo atrofiado, les falla, cuando se trata de oír el clamor de los representantes del pueblo, a los representantes del movimiento social; sin embargo se les afina la audición cuando se trata de  escuchar a los poderosos y los dueños del país. Esto, por supuesto -a la luz de los acontecimientos de corrupción e incesto entre la política y el empresariado, de las últimas semanas- no merece mayor reflexión, no podemos competir con aquellos que tienen en sus manos comprar y comprometer votos cuando se dictan leyes que en definitiva favorezcan sus intereses.
+
+El pueblo debe conformarse y sentirse orgulloso porque le permiten “VOTAR” por alguno de los YA ELEGIDOS, y con ello sentirse realizando el acto más simbólico y representativo de un sistema democrático, votando por aquellos, que no tienen compromiso con el pueblo y sus necesidades, sino que tienen  el poder y la  facultad de votar en el parlamento leyes que favorezcan los intereses de quienes los compraron, esto con muy escasas excepciones.
+
+El movimiento de los derechos humanos, específicamente las organizaciones que representan a las víctimas sobrevivientes de prisión política y tortura, vienen buscando el diálogo desde hace 25 años, para encontrar una solución  definitiva para que el estado de Chile cumpla con los Tratados Internacionales suscritos en forma voluntaria y se haga  justicia con respecto a tan grave delito de lesa humanidad y se termine con la impunidad, sin éxito.
+
+¿Cual ha sido la actitud de los diferentes gobiernos post-dictadura? Primero intervenir este movimiento, cooptar algunos malos dirigentes  y dividirlos entre organizaciones “bienvistas y malvistas”, ¿cual es la diferencia? se preguntarán UDS; la diferencia es que mientras ellos hacen como que dialogan y van tomando algunas “medidas reparatorias” sin considerar ni escuchar los planteamientos  de todos los representantes de  las organizaciones existentes, sino que de acuerdo a lo que algún “asesor” absolutamente ajeno a la problemática, calculadora en mano, “recomienda”, contando para ello con la anuencia de aquellos dirigentes que hace rato vienen pensando más en lo que al ejecutivo le interesa y no en lo que a las víctimas sobrevivientes, POR DERECHO LES CORRESPONDE.
+
+El “error” de las organizaciones “malvistas”, es ser los legítimos representante de los intereses de los compañeros y compañeras que hoy son sometidos a vivir con la injusticia, con la impunidad y además en condiciones inhumanas de pobreza y enfermedad, resultado de los hechos traumáticos de los que salvaron providencialmente con vida en tiempos de la dictadura y posteriormente  por la insensibilidad, la indiferencia, el maltrato permanente de la no reparación y marginación de la sociedad.
+
+Aún con éste panorama y claridad, hemos buscado permanentemente el diálogo, no hemos dejado ninguna puerta por tocar, hemos planteado el problema y hemos propuesto la solución, sin embargo no hemos sido escuchados y así ha ido pasando el tiempo y más del 25% de nuestros compañeros han partido sin haber visto llegar a su existencia, esa tan anhelada justicia, sin haberse podido sentir realmente reconocido, respetado, reparado.
+
+La última huelga de hambre realizada en Rancagua fue levantada, con la presencia y  por el compromiso de la Ministra Rincón de instalar una mesa tripartita, para buscar una solución definitiva a este tema. Este compromiso no fue cumplido, se estableció como una nueva burla, COMO UN NUEVO ATROPELLO a los sobrevivientes. La ministra Rincón nunca más asistió a estas reuniones, se nos comenzó a derivar donde funcionarios de segundo y tercer rango que no tienen ninguna facultad para tomar decisiones ni para influir en la toma de decisiones; muy por el contrario llegaron con planteamientos que en mucho diferían hasta de los planteamientos expresados por la propia Ministra Rincón.
+
+Hemos dialogado desde hace 25 años y ya más del 25% de nuestros compañeros han muerto; que es lo que pretenden; ¿que sigamos dialogando hasta morir?, para luego justificarse y tranquilizar su conciencia con algún monumento en nuestra memoria, que lo más probable es que sirva de urinario y micro basural, como ocurre con muchos memoriales a nivel nacional. No señores los Ex Prisioneros Políticos hemos dicho basta, y hemos decidido reiniciar la huelga de hambre, suspendida a consecuencia del engaño de la Ministra Rincón.
+
+No nos hacemos responsables de lo que pudiera ocurrir, nunca quisiéramos poner la vida de nuestros compañeros y compañeras en riesgo, pero nos vemos obligados por la insensibilidad, por el irrespeto, por el desprecio demostrado por los gobernantes de este país para con las víctimas sobrevivientes de la prisión política y tortura.
+
 Comunicado de Prensa.
 
 A las 12 horas del día de hoy un grupo de Ex Presos Políticos de la dictadura se tomó las oficinas de la Corporación de Promoción y Defensa de los Derechos del Pueblo –CODEPU- en paseo Bulnes 188, oficina 62, para iniciar una huelga de hambre indefinida.
