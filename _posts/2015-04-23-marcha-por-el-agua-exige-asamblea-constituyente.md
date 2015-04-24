@@ -35,3 +35,21 @@ Debe nacer de la movilización del pueblo. Debemos saber confluir en las calles.
 -Nosotros apoyamos el paro, porque somos trabajadores rurales, porque en las comunidades los trabajadores en invierno se quieren dar una ducha caliente en las mañanas antes de ir a trabajar y no prende el calefón porque no hay presión, compartimos esa misma precariedad de agua y también nos afecta la reforma. No podemos permitir que esos políticos sean los que definan la reforma laboral ni quienes definan un nuevo código de agua, no tienen la moral para hacerlo ni la legitimidad.
 
 Fuente: laizquierdadiario.cl
+
+MULTITUDINARIA Y EXITOSA TERCERA MARCHA NACIONAL POR LA RECUPERACIÓN DEL AGUA Y LA VIDA EN VALPARAISO
+
+Más de diez mil personas asistieron a la “Tercera Marcha Nacional por la Recuperación del Agua y la Vida”, que llegaron de distintas partes del país para movilizarse en Valparaíso.
+
+Organizaciones socioambientales, federaciones de estudiantiles y agrupaciones territoriales, entre otras, reunidos en el “Movimiento Social por la Recuperación del Agua y La Vida”, se juntaron bajo una petición común: acabar con el lucro con el agua, bajo la premisa “A recuperar el agua y el poder también”.
+              
+A las diez de la mañana empezaron a llegar los manifestantes a Playa Ancha, uno de los puntos de inicio, y se unieron una hora después a las personas que esperaban en la Plaza Sotomayor. “Ni corruptos ni empresarios en el Estado, a sacar el agua del mercado”, “Justicia soberanía y dignidad, que el agua vuelva a la comunidad” y “La sed del capital nos deja sin agua”, fueron parte de las consignas y carteles que se pudieron leer en la larga y colorida columna.
+
+El vocero del Movimiento Social Por la Recuperación del Agua y La Vida, Rodrigo Faúndez, manifestó que “Estamos reunidos todos y todas, distintas organizaciones, desde el norte al sur de Chile, estudiantes, trabajadores, personas de distintas edades, para decir que el agua es un bien común, por lo que debe ser garantizada para el consumo básico de las comunidades”.
+
+Las organizaciones convocantes denunciaron que el marco institucional vigente consagró la privatización de las aguas, separó el agua de la tierra y posibilitó el lucro con el vital elemento, en función de los requerimientos de las grandes empresas nacionales y transnacionales. 
+
+Pasadas las 13:30 horas, terminaron las vocerías de las y los dirigentes en la Plaza Victoria donde concluyó la manifestación. Como Movimiento Social Por la Recuperación del Agua y la Vida condenamos y rechazamos el actuar de Carabineros de Chile. Entendemos que esta disposición ha sido una constante del actual gobierno, en tanto que es expresión de la incapacidad de dar respuestas y resoluciones a las demandas centrales del movimiento social.
+
+Se informó de cuatro detenidos, entre ellos, el presidente de la Federación de Estudiantes de la Pontificia Universidad Católica de Valparaíso (FEPUCV), Jorge Rauld, y un menor de edad. Asimismo, se notificó de manifestantes que se encuentran constatando lesiones por quemaduras en servicios de urgencia producto de toxicidad de gases disuasivos.
+
+Se adjunta las demandas del Movimiento Social por la Recuperación del Agua y la Vida.
