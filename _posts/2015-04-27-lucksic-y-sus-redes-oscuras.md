@@ -13,6 +13,9 @@ youtube:
 
 Del colapso a la privatización:
 El silencioso golpe blanco de Luksic en Codelco
+
+Fuente: El Ciudadano.cl
+
 Aires de cambio se respiran en la empresa estatal del cobre. Tras una administración criticada por manejos erráticos y pérdidas millonarias, el Grupo Luksic ha colocado a hombres de su más cercana confianza en puestos clave de la corporación. ¿Pero se resuelve o empeora la crisis en Codelco? La radiografía de una posible operación para devolver Chuquicamata a manos privadas, y en especial a una familia que gestiona el patrimonio de la expropiada Anaconda Copper de los Rockefeller, en el siguiente reportaje de El Ciudadano.
 
 Es día de negocios y en Perú aterriza un vuelo proveniente de Santiago de Chile. A escasos metros de la base aérea Las Palmas opera el temido servicio de inteligencia de Alberto Fujimori y desde su interior el jefe, Vladimiro Montesinos, avizora la llegada de un hombre barbudo y ternado que baja de los cielos para conversar sobre un terreno pantanoso que su empresa de pastas Lucchetti acaba de comprar en Lima. Consciente de que la protección ecológica del predio está siendo reclamada por comunidades locales, el visitante chileno de sangre croata y boliviana saluda a Montesinos e ingresa al despacho del oscuro brazo derecho de Fujimori.
