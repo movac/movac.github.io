@@ -1,5 +1,15 @@
-
-
+---
+permalink: "/noticias/como-lucksic-gobierna-chile-corrupcion-total.html"
+layout: article_entry
+title: CÓMO LUCKSIC GOBIERNA CHILE, CORRUPCIÓN TOTAL.
+categories: 
+  - noticias
+  - portada
+  - carrusel
+published: true
+image: http://cdn.elciudadano.cl/wp-content/uploads/2015/04/Luksic-Codelco.jpg
+youtube: 
+---
 
 Del colapso a la privatización:
 El silencioso golpe blanco de Luksic en Codelco
