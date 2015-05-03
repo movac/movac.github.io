@@ -19,3 +19,9 @@ Si tienes una organización en cualquier lugar del país y te interesa formar ci
 Ya son más de una decena las Escuelas que se han realizado desde Enero de 2009 organizada por la Red de Estudiantes por la AC y siguen multiplicándose desde diversas organizaciones libres y autónomas, como instancia real de participación y construcción del VERDADERO PROCESO CONSTITUYENTE QUE NOS LLEVARÁ A LA CONVOCATORIA DE UNA ASAMBLEA CONSTITUYENTE!!!
 
 procesoconstituyentechile@gmail.com
+
+<div class="hidden-xs">
+	<iframe width="853" height="480" src="//www.youtube-nocookie.com/embed/1LAZEsvcPmM" frameborder="0" allowfullscreen></iframe>
+</div>
+
+[ver video](https://www.youtube.com/watch?v=1LAZEsvcPmM)
