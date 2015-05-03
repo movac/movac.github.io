@@ -5,7 +5,6 @@ title: MARCHAMOS PARA DEROGAR EL CÓDIGO DE AGUAS Y POR UNA ASAMBLEA CONSTITUYEN
 categories: 
   - noticias
   - portada
-  - carrusel
 published: true
 image: http://cdn.elciudadano.cl/wp-content/uploads/2015/04/Luis-Soto-dirigente-MODATIMA.jpg
 youtube: 
