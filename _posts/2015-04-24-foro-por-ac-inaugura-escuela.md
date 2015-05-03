@@ -6,7 +6,7 @@ categories:
   - noticias
   - portada
 published: true
-image: 
+image: https://fbcdn-sphotos-c-a.akamaihd.net/hphotos-ak-xpa1/v/t1.0-9/p370x247/11133821_10153231578811397_4851258255965791030_n.png?oh=e8831bab173bc19f90310329a68824a2&oe=55D1F90F&__gda__=1439348720_42696b368c6426e67b5a9dfebc42dc20
 youtube: https://www.youtube.com/embed/1LAZEsvcPmM
 ---
 
