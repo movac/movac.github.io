@@ -7,7 +7,7 @@ categories:
   - portada
 published: true
 image: 
-youtube: https://www.youtube.com/watch?v=1LAZEsvcPmM
+youtube: https://www.youtube.com/embed/1LAZEsvcPmM
 ---
 
 Video de la inauguración de la Escuela de Monitores por la Asamblea Constituyente organizada por "Foro por la Asamblea Constituyente".
