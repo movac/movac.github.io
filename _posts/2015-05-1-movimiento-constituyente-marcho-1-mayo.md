@@ -8,7 +8,7 @@ categories:
   - carrusel
 published: true
 image: https://scontent-gru.xx.fbcdn.net/hphotos-xfp1/v/t1.0-9/11174794_10153229027801397_2876863903230972094_n.jpg?oh=9b00d7765380935e64d343dfcc444dd2&oe=55DA1A64
-youtube: https://www.youtube.com/watch?v=0j08Mn7L0tQ
+youtube: 
 ---
 
 Hoy se pretende hacer creer que se dará inicio a un "proceso constituyente" que, de la manera incompleta en que se presenta, no sería tal, puesto que si este se basa solo en cabildos consultivos y se omite la necesidad de una Asamblea Constituyente, tal proceso no generará una nueva constitución ni habrá tampoco participación real de la ciudadanía.
