@@ -31,3 +31,10 @@ Nuestros trabajadores solo podrán acceder a una reforma laboral adecuada median
 EL PODER CONSTITUYENTE ERES TÚ!!
 
 procesoconstituyentechile@gmail.com
+
+<div class="hidden-xs">
+	<iframe width="853" height="480" src="//www.youtube-nocookie.com/embed/0j08Mn7L0tQ" frameborder="0" allowfullscreen></iframe>
+</div>
+
+[ver video](https://www.youtube.com/watch?v=1LAZEsvcPmM)
+
