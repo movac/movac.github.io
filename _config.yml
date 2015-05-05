@@ -18,3 +18,11 @@ twitter:
 
 google:
   analytics: 'UA-53620410-1'
+
+collections:
+  documents:
+    output: true
+  flyers:
+    output: true
+  presentations:
+    output: true

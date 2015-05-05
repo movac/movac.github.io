@@ -1,7 +1,7 @@
 ---
 permalink: "/noticias/fernando-atria-la-constitucion-fue-hecha.html"
 layout: article_entry
-title: Fernando Atria: "La Constitución fue hecha para que un programa como el de la Nueva Mayoría no sea realizable."
+title: 'Fernando Atria: "La Constitución fue hecha para que un programa como el de la Nueva Mayoría no sea realizable."'
 categories: 
   - noticias
   - portada

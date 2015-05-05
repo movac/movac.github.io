@@ -1,0 +1,32 @@
+---
+layout: article
+published: true
+---
+<div class="page-header">
+	<h2>Volantes e Informativos</h2>
+</div>
+
+<table class="table table-striped">
+	<thead>
+		<tr>
+			<th>Tipo</th>
+			<th>Archivo</th>
+			<th>Descripción</th>
+		</tr>
+	</thead>
+	<tbody>
+		{% for doc in site.flyers %}
+			{% if doc.published %}
+		<tr>
+			<td><i class="fa fa-file-{{doc.type}}-o"></i></td>
+			<td>
+				<a href="{{ doc.url }}" target="_blank">{{ doc.title }}</a>
+			</td>
+			<td>
+				{{ doc.description }}
+			</td>
+		</tr>
+			{% endif %}
+		{% endfor %}
+	</tbody>
+</table>
