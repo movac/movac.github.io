@@ -6,7 +6,7 @@ categories:
   - noticias
   - internacional
 published: true
-image: http://cdn.elciudadano.cl/wp-content/uploads/2015/04/Luksic-Codelco.jpg
+image: http://constituyentes.org/wp-content/uploads/2012/06/images.jpg
 ---
 
 En tanto proyecto político que ayuda a sortear una crisis social profunda, toda Constitución nace con una vocación de permanencia. Pero esto no significa que la Constitución pueda trascender la historia misma. Nunca un proyecto constitucional puede asegurar que no surgirán circunstancias críticas que cuestionen su vigencia.
