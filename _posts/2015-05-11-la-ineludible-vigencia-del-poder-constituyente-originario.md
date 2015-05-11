@@ -10,6 +10,7 @@ image: http://constituyentes.org/wp-content/uploads/2012/06/images.jpg
 ---
 
 En tanto proyecto político que ayuda a sortear una crisis social profunda, toda Constitución nace con una vocación de permanencia. Pero esto no significa que la Constitución pueda trascender la historia misma. Nunca un proyecto constitucional puede asegurar que no surgirán circunstancias críticas que cuestionen su vigencia.
+
  
 Una Constitución puede establecer mecanismos para su reforma; se habla entonces de “poder constituyente derivado”. Este poder, que se contrapone al poder constitucional originario, expresa la soberanía popular en contextos como una revolución o un movimiento ciudadano que responde a la deslegitimación del orden constitucional vigente, y su función radica en formular una nueva Constitución.
  
