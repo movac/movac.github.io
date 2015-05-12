@@ -1,7 +1,7 @@
 ---
 permalink: "/noticias/guatemala-estado-en-crisis-urge-asamblea-constituyente.html"
 layout: article_entry
-title: Guatemala: Un Estado en crisis, urge Asamblea Constituyente.
+title: Guatemala. Un Estado en crisis, urge Asamblea Constituyente.
 categories: 
   - noticias
   - internacional
