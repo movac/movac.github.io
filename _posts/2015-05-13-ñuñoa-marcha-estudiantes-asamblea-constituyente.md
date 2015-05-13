@@ -5,7 +5,7 @@ title: ORGANIZACIONES CIUDADANAS DE ÑUÑOA LLAMA A MARCHAR JUNTO A LOS ESTUDIAN
 categories: 
   - noticias
   - portada
- published: true
+published: true
 image: https://mail.google.com/mail/u/0/?ui=2&ik=abbdb6ba71&view=fimg&th=14d486b653315b67&attid=0.2&disp=emb&attbid=ANGjdJ_UuS5MDDC5dwGannwiMMwciKPqUiWb14W5tO3jMFrq4MwEa-7_H8v2AKgPfDFWc5cBn0H4sg6ZlCLM6VljnDZeQZVJV48tqvIg7j0CbSLJ2JXuRJlz3g8Z8tI&sz=w664-h964&ats=1431525822082&rm=14d486b653315b67&zw&atsh=1
 ---
 
