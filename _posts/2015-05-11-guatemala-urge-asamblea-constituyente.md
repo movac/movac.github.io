@@ -5,7 +5,6 @@ title: Guatemala. Un Estado en crisis, urge Asamblea Constituyente.
 categories: 
   - noticias
   - internacional
-  - portada
 published: true
 image: http://ak6.picdn.net/shutterstock/videos/1369840/preview/stock-footage-guatemala-flag-loop.jpg
 ---
