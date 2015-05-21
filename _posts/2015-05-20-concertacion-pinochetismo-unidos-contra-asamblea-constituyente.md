@@ -1,11 +1,11 @@
 ---
 permalink: "/noticias/cupulas-concertacion-pinochetismo-contra-asamblea-constituyente.html"
 layout: article_entry
-title: CUPULAS DE LA CONCERTACION Y EL PINOCHETISMO, UNIDAS CONTRA LA ASAMBLEA CONSTITUYENTE
+title: CUPULAS DE LA CONCERTACION Y EL PINOCHETISMO, UNIDAS CONTRA LA ASAMBLEA CONSTITUYENTE.
 categories: 
   - noticias
   - portada
-  -carrusel
+  - carrusel
 published: true
 image: https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xtp1/v/t1.0-9/11257169_10153266006431397_1193860558982998974_n.png?oh=35464e9b2fb08f0be04cb36b397ac728&oe=55C0F3B9&__gda__=1438566524_a453933da6489016014fa6cb7d390d61
 ---
