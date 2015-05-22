@@ -210,5 +210,6 @@ En estas pequeñas páginas hemos querido demostrar que la inspiración más pro
 
 La Asamblea Constituyente es una tarea histórica que cada uno de nosotros –ciudadanos de Chile- hemos heredado de nuestros libertadores, filósofos, y pensadores, y que tenemos el deber de realizar para quedar a cuenta con nosotros mismos y nuestros hermanos. Y basta leer las palabras de Camilo Henríquez para recordar este deber. Chile como República libre, soberana y feliz no puede consolidarse sin este paso histórico que lleva 200 años pendiente para construir nuestro  propio Pacto Social.
 
-
+Publicado en ElCiudadano.cl, 
+Radio Universidad de Chile, http://radio.uchile.cl/2015/05/21/presidenta-no-puede-mal-usar-el-nombre-de-camilo-henriquez
 
