@@ -1,7 +1,7 @@
 ---
 permalink: "/noticias/asamblea-constituyente-chile-esta-preparado.html"
 layout: article_entry
-title: ASAMBLEA CONSTITUYENTE ¿CHILE ESTÁ PREPARADO?
+title: ASAMBLEA CONSTITUYENTE, UN PROCESO POSIBLE EN CHILE.
 categories: 
   - noticias
   - entrevistas
