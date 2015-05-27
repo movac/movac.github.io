@@ -1,7 +1,7 @@
 ---
 permalink: "/noticias/conversatorio-asamblea-constituyente-privatizacion-agua-la-florida.html"
 layout: article_entry
-title: CONVERSATORIO SOBRE ASAMBLEA CONSTITUYENTE PARA RECUPERAR EL AGUA HOY PRIVATIZADA.
+title: CONVERSATORIO.
 categories: 
   - noticias
   - portada
