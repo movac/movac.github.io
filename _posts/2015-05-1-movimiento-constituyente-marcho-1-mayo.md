@@ -5,7 +5,6 @@ title: MOVIMIENTO POR LA ASAMBLEA CONSTITUYENTE MARCHÓ EL 1 DE MAYO
 categories: 
   - noticias
   - portada
-  - carrusel
 published: true
 image: https://scontent-gru.xx.fbcdn.net/hphotos-xfp1/v/t1.0-9/11174794_10153229027801397_2876863903230972094_n.jpg?oh=9b00d7765380935e64d343dfcc444dd2&oe=55DA1A64
 youtube: 
