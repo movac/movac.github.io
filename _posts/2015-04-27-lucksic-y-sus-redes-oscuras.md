@@ -5,7 +5,6 @@ title: CÓMO LUCKSIC GOBIERNA CHILE, CORRUPCIÓN TOTAL.
 categories: 
   - noticias
   - portada
-  - carrusel
 published: true
 image: http://cdn.elciudadano.cl/wp-content/uploads/2015/04/Luksic-Codelco.jpg
 youtube: 
