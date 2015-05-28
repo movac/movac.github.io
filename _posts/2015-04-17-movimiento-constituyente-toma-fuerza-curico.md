@@ -5,7 +5,7 @@ title: MOVIMIENTO POR LA ASAMBLEA CONSTITUYENTE TOMA FUERZA EN CURICÓ!!
 categories: 
   - noticias
   - portada
-  - carrusel
+  - eventos
 published: true
 image: https://fbcdn-sphotos-d-a.akamaihd.net/hphotos-ak-xpf1/v/t1.0-9/17386_10153193829351397_7679028462457258078_n.png?oh=f40140853f922b7449488b3e7b13d86c&oe=55A5567E&__gda__=1437366207_32b10c01a1f0914df6cfc73e4273cf5e
 youtube: 
