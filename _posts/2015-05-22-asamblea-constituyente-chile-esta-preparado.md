@@ -23,7 +23,7 @@ Tampoco es un mecanismo nuevo. Remontándose desde la antigua Francia de 1789, p
 
 Pero en términos concretos ¿de qué se trata una asamblea constituyente?
 
-En primera instancia, Matías Sagredo, educador diferencial y coordinador del Movimiento por la Asamblea Constituyente (fusionado con REDESCHILE), divide al proceso constituyente a través de plebiscito – jornada amplia de elección por medio de votos-, elección de delegados y referéndum de la constitución.
+En primera instancia, Matías Sagredo, educador diferencial y vocero del Movimiento por la Asamblea Constituyente (fusionado con REDESCHILE), divide al proceso constituyente a través de plebiscito – jornada amplia de elección por medio de votos-, elección de delegados y referéndum de la constitución.
 
 Sergio Grez, historiador, académico de la Universidad de Chile e impulsor de las “Escuelas por la asamblea constituyente”, la define como una reunión de delegados democráticamente elegidos por la ciudadanía a través de un plebiscito con el único objetivo de elaborar una constitución para el Estado.
 
