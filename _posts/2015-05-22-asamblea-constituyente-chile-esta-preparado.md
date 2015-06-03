@@ -6,7 +6,6 @@ categories:
   - noticias
   - entrevistas
   - portada
-  - carrusel
 published: true
 image: http://contintanegra.com/wp-content/uploads/2015/05/Asamblea-Constituyente1.jpg
 ---
