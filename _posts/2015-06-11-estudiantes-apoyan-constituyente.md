@@ -4,7 +4,8 @@ layout: article_entry
 title:  ESTUDIANTES APOYAN LA CONVOCATORIA A UNA ASAMBLEA CONSTITUYENTE.
 author: AC Chile
 date: 12-06-2014
-categories: [noticias]
+categories: 
+- noticias
 - portada
 - eventos
 published: true
