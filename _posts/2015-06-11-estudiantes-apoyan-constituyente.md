@@ -1,7 +1,7 @@
 ---
 permalink: /noticias/estudiantes-apoyan-constituyente.html
 layout: article_entry
-title:  ESTUDIANTES APOYAN LA CONVOCATORIA A UNA ASAMBLEA CONSTITUYENTE.
+title:  ESTUDIANTES APOYAN LA CONVOCATORIA A UNA ASAMBLEA CONSTITUYENTE
 author: AC Chile
 date: 12-06-2014
 categories: 
