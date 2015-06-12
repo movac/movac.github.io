@@ -13,10 +13,11 @@ title: Noticias
 		</div>
 		<div class="col-md-9">
 			<h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
+			<p><small>{{ post.date | date: "%A %d de %B, %Y" }}</small></p>
 			{{ post.excerpt | strip_html | truncate:200 }}
 			<p>
-        <a href="{{ post.url }}"><i class="fa fa-plus-square-o"></i> seguir leyendo</a>
-      </p>
+        		<a href="{{ post.url }}"><i class="fa fa-plus-square-o"></i> seguir leyendo</a>
+      		</p>
 		</div>
 	</div>
 	{% endif %}
