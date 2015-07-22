@@ -5,7 +5,6 @@ title: BACHELET NO PUEDE MAL USAR A CAMILO HENRIQUEZ, PRIMER DEFENSOR DE UNA ASA
 categories: 
   - noticias
   - portada
-  - carrusel
 published: true
 image: https://fbcdn-sphotos-b-a.akamaihd.net/hphotos-ak-xpf1/v/t1.0-9/11037773_10153268261731397_5277183134035939642_n.jpg?oh=70b37545c89af0b417660e71909d735b&oe=5608BAAF&__gda__=1438923984_ce9ab8bf3eab7dbec39828dd6fdc498c
 ---
