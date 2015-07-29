@@ -12,7 +12,7 @@ image: http://radio.uchile.cl/wp-content/uploads/2015/07/PS-678x330.jpg
 
 Senadora Isabel Allende: El PS va a apoyar la determinación del Gobierno sobre nueva Constitución
 
-Radio Universidad de Chile, 23 de Julio.
+Radio Universidad de Chile, 23 de Julio. http://radio.uchile.cl/2015/07/23/senadora-isabel-allende-el-ps-va-a-apoyar-la-determinacion-del-gobierno-sobre-nueva-constitucion#_=_
 
 Pese a los reclamos de la bancada transversal por la Asamblea Constituyente por los dichos del ministro del Interior, Jorge Burgos, en contra de este mecanismo, el oficialismo parece comenzar a acatar las direcciones que da el jefe de Gabinete. Por esto desde los movimientos sociales llaman a defender la idea de un mecanismo efectivamente democrático
 
