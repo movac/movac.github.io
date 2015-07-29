@@ -4,7 +4,6 @@ layout: article_entry
 title: ENCUENTRO EN LA FLORIDA POR UNA ASAMBLEA CONSTITUYENTE.
 categories: 
   - noticias
-  - carrusel
   - portada
 published: true
 image: https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xtp1/v/t1.0-9/10432124_10152587272391397_3201219803483723561_n.jpg?oh=c38c78f25a95780d218b37f0ac7deaef&oe=5602BDB9&__gda__=1443482492_6780fc7727b41f5035b00901dea6aa0b
