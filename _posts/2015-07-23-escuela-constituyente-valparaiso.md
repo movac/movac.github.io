@@ -11,7 +11,7 @@ published: true
 image: https://scontent-mia1-1.xx.fbcdn.net/hphotos-xfp1/v/t1.0-9/11753691_10153429066481397_481116613428279988_n.jpg?oh=3cf8e3b0bd84a4e325d4b1e6ce51e23b&oe=564E7EB5
 ---
 
-Este Sábado 8 de Agosto en la Ciudad de Valparaíso se desarrollará la tercera sesión de la Escuela de Monitores por una Asamblea Constituyente en la ciudad de Valparaíso, con la participación del panelista Matías Sagredo, vocero del Movimiento por la Asamblea Constituyente.
+Este Sábado 8 de Agosto en la Ciudad de Valparaíso se desarrollará la tercera sesión de la Escuela de Monitores por una Asamblea Constituyente, con la participación del panelista Matías Sagredo, vocero del Movimiento por la Asamblea Constituyente.
 
 En las próximos debates: Matías Sagredo (vocero del movimiento por la Asamblea Constituyente), Gabriel Salazar (premio nacional de Historia), Rodrigo Mundaca (dirigente MODATIMA), Julian Alcayaga (Comité de defensa del Conbre), entre otros.
 
