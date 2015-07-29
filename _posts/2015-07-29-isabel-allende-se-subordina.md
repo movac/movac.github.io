@@ -1,7 +1,7 @@
 ---
 permalink: /noticias/isabel-allende-se-subordina.html
 layout: article_entry
-title: ANT LA POSTURA ANTI CONSTITUYENTE DEL GOBIERNO EL MOVIMIENTO AC RESPONDE.
+title: ANTE LA POSTURA ANTI CONSTITUYENTE DEL GOBIERNO, EL MOVIMIENTO AC RESPONDE.
 author: AC Chile
 categories: 
   - noticias
