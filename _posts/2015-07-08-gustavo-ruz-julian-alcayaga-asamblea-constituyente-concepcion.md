@@ -7,7 +7,6 @@ date: 12-06-2015
 categories: 
   - noticias
   - portada
-  - carrusel
 published: true
 image: https://fbcdn-sphotos-c-a.akamaihd.net/hphotos-ak-xta1/v/t1.0-9/10350354_10152834008936397_1210076032516805805_n.jpg?oh=b4c8ee40b6da464b496fd9be7a487737&oe=56163097&__gda__=1445278170_97cd5b01eea8243f2424331be10f5421
 ---
