@@ -6,7 +6,6 @@ author: AC Chile
 categories: 
   - noticias
   - portada
-  - carrusel
 published: true
 image: http://radio.uchile.cl/wp-content/uploads/2015/07/PS-678x330.jpg
 ---
