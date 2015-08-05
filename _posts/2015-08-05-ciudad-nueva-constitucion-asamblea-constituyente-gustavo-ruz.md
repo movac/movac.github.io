@@ -1,7 +1,7 @@
 ---
 permalink: /noticias/ciudad-nueva-constitucion-asamblea-constituyente-gustavo-ruz.html
 layout: article_entry
-title: CONVERSATORIO LA CIUDAD EN LA NUEVA CONSTITUCIÓN
+title: CONVERSATORIO LA CIUDAD EN LA NUEVA CONSTITUCIÓN.
 author: AC Chile
 categories: 
   - noticias
