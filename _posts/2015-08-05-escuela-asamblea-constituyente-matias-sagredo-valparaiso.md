@@ -1,7 +1,7 @@
 ---
 permalink: /noticias/escuela-asamblea-constituyente-matias-sagredo-valparaiso.html
 layout: article_entry
-title: CONVERSATORIO LA CIUDAD EN LA NUEVA CONSTITUCIÓN.
+title: 2a CLASE ESCUELA POR UNA ASAMBLEA CONSTITUYENTE, VALPARAISO.
 author: AC Chile
 categories: 
   - noticias
