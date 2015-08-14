@@ -1,7 +1,7 @@
 ---
 permalink: /noticias/proceso-constituyente-crece-en-todo-chile.html
 layout: article_entry
-title: PROCESO CONSTITUYENTE AVANZA EN TODO CHILE!!
+title: PROCESO CONSTITUYENTE AVANZA EN TODO CHILE.
 author: AC Chile
 categories: 
   - noticias
