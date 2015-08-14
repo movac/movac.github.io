@@ -12,7 +12,6 @@ image: https://scontent-gru1-1.xx.fbcdn.net/hphotos-xtf1/t31.0-8/s960x960/118450
 ---
 
 "Asamblea Constituyente en Chile y experiencias internacionales"
-
 Expone: Matías Sagredo, profesor del Movimiento por la Asamblea Constituyente, fundador de la Red de Estudiantes por la Asamblea Constituyente (2006-2013)
 
 Sábado 15 de agosto, 17:00 horas.
