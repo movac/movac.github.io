@@ -1,7 +1,7 @@
 ---
 permalink: /noticias/foro-en-la-victoria-asamblea-constituyente.html
 layout: article_entry
-title: FORO EN POBLACIÓN LA VICTORIA SOBRE ASAMBLEA CONSTITUYENTE
+title: FORO EN POBLACIÓN LA VICTORIA SOBRE ASAMBLEA CONSTITUYENTE.
 author: AC Chile
 categories: 
   - noticias
