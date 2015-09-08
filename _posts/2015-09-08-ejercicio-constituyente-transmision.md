@@ -1,7 +1,7 @@
 ---
 permalink: "/noticias/ejercicio-constituyente-transmision.html"
 layout: article_entry
-title: TRANSMISION DEL EJERCICIO CONSTITUYENTE.
+title: TRANSMISION ONLINE DEL 1ER EJERCICIO CONSTITUYENTE.
 author: AC Chile
 categories: 
   - noticias
