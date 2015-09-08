@@ -1,5 +1,5 @@
 ---
-permalink: /noticias/ejercicio-constituyente-transmision.html
+permalink: "/noticias/ejercicio-constituyente-transmision.html"
 layout: article_entry
 title: TRANSMISION DEL EJERCICIO CONSTITUYENTE.
 author: AC Chile
