@@ -25,4 +25,4 @@ Foto del momento en que los ciudadanos de Ciricó exponen a través de SKYPE sus
 
 <iframe src="https://scontent-gru1-1.xx.fbcdn.net/hphotos-xpf1/v/t1.0-9/11998941_10153557392301397_7794805903030509564_n.jpg?oh=9d55a37b7aba88b0cc1ff5a89269606f&oe=56625325" width="720" height="437"></iframe><br/>
 
-Foto de la entrada del Liuceo Manuel de Salas, recinto que acogió a las organizaciones de la Región Metropolitana y sirvió de centro receptor de los Ejercicios de las demás Regiones.
+Foto de la entrada del Liceo Manuel de Salas, recinto que acogió a las organizaciones de la Región Metropolitana y sirvió de centro receptor de los Ejercicios de las demás Regiones.
