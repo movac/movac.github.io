@@ -18,3 +18,5 @@ Más de 200 dirigentes sociales en ejercicio Constituyente, representando organi
 Unidad por una Asamblea Constituyente. Ni Congreso Ni cabildos, solo la Asamblea Constituyente garantizará una nueva Constitución.
 
 Este es el proceso que los medios de comunicación no mostrarán, sígalo, súmese, difúndalo!!!
+
+<iframe src="https://fbcdn-sphotos-c-a.akamaihd.net/hphotos-ak-xpt1/v/t1.0-9/12002096_10153549148716397_4322318567852142257_n.jpg?oh=cafd08870122cb8cb8722e286cb22fc2&oe=56A2E9D1&__gda__=1449172952_e69375371b4fba46004e2ffaf148679b" width="720" height="437"></iframe><br/>
