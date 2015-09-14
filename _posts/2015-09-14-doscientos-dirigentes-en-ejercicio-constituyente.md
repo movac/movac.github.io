@@ -20,7 +20,9 @@ Unidad por una Asamblea Constituyente. Ni Congreso Ni cabildos, solo la Asamblea
 Este es el proceso que los medios de comunicación no mostrarán, sígalo, súmese, difúndalo!!!
 
 <iframe src="https://fbcdn-sphotos-c-a.akamaihd.net/hphotos-ak-xpt1/v/t1.0-9/12002096_10153549148716397_4322318567852142257_n.jpg?oh=cafd08870122cb8cb8722e286cb22fc2&oe=56A2E9D1&__gda__=1449172952_e69375371b4fba46004e2ffaf148679b" width="720" height="437"></iframe><br/>
+
 Foto del momento en que los ciudadanos de Ciricó exponen a través de SKYPE sus conclusiones a la Plenaria General en Santiago. Curicó, Chillán, Calama, Quilpué y Aysén realizaron sus propios ejercicios constituyente y fueron parte, a través de la tecnología, de esta Ejercicio.
 
 <iframe src="https://scontent-gru1-1.xx.fbcdn.net/hphotos-xpf1/v/t1.0-9/11998941_10153557392301397_7794805903030509564_n.jpg?oh=9d55a37b7aba88b0cc1ff5a89269606f&oe=56625325" width="720" height="437"></iframe><br/>
+
 Foto de la entrada del Liuceo Manuel de Salas, recinto que acogió a las organizaciones de la Región Metropolitana y sirvió de centro receptor de los Ejercicios de las demás Regiones.
