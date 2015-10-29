@@ -1,7 +1,7 @@
 ---
 permalink: "/noticias/arica-avanza-proceso-constituyente.html"
 layout: article_entry
-title: EN ARICA AVANZA EL PROCESO CONSTITUYENTE.
+title: EN ARICA AVANZA EL PROCESO CONSTITUYENTE
 author: AC Chile
 categories: 
   - noticias
