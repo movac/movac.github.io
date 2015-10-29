@@ -1,7 +1,7 @@
 ---
 permalink: "/noticias/avanza-proceso-asamblea-constituyente-todo-chile.html"
 layout: article_entry
-title: TALCA AVANZA EN EL PROCESO CONSTITUYENTE
+title: AVANZA PROCESO CONSTITUYENTE EN TODO CHILE
 author: AC Chile
 categories: 
   - noticias
