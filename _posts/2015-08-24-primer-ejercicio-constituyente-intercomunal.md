@@ -6,7 +6,6 @@ author: AC Chile
 categories: 
   - noticias
   - portada
-  - carrusel
 published: true
 image: https://scontent-mia1-1.xx.fbcdn.net/hphotos-xtf1/v/t1.0-9/11892119_10153504870276397_1630523442399230458_n.jpg?oh=b5c19cbebd2123338b99e5dc59520646&oe=563A77B7
 ---
