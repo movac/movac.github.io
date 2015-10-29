@@ -7,7 +7,7 @@ categories:
   - noticias
   - portada
 published: true
-image: https://fbcdn-sphotos-c-a.akamaihd.net/hphotos-ak-xpf1/t31.0-8/905908_197156823949180_3050000013580006033_o.jpg
+image: https://scontent-mia1-1.xx.fbcdn.net/hphotos-xfa1/v/t1.0-9/12187791_10207304599764866_7009451309361261656_n.jpg?oh=57270d30ae32728e710aec06be3416a3&oe=56CB7418
 ---
 Entrevista en TeleSur.
 
