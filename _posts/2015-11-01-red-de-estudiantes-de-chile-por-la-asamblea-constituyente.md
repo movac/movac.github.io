@@ -32,4 +32,5 @@ Fundador de la Red de Estudiantes de Chile por la Asamblea Constituyente (2006-2
 
 (Las fotos corresponden a Ahumada con Alameda antes de comenzar a marchar y la otra en Plaza de Armas en el el acto final llamando a marcar el voto y exigiendo Asamblea Constituyente)
 
-https://scontent-gru1-1.xx.fbcdn.net/hphotos-xlp1/v/t1.0-9/11987086_10153641567371397_3939550344245585155_n.jpg?oh=563be2092545797fa7984ac69db1efd9&oe=56B333BA
+<img src="https://scontent-gru1-1.xx.fbcdn.net/hphotos-xlp1/v/t1.0-9/11987086_10153641567371397_3939550344245585155_n.jpg?oh=563be2092545797fa7984ac69db1efd9&oe=56B333BA" alt="Red de Estudiantes de Chile por la Asamblea Constituyente 2008" class="img-responsive">
+
