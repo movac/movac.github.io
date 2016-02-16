@@ -1,7 +1,7 @@
 ---
 permalink: /noticias/sin-asamblea-constituyente-no-hay-nueva-constitucion.html
 layout: article_entry
-title:  VIDEO: SIN ASAMBLEA CONSTITUYENTE NO HAY NUEVA CONSTITUCÓN.
+title:  VIDEO SIN ASAMBLEA CONSTITUYENTE NO HAY NUEVA CONSTITUCÓN.
 author: AC Chile
 categories: 
 - noticias
