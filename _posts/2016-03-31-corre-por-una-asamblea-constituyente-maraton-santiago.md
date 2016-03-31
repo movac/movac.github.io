@@ -39,5 +39,3 @@ Facebook: https://www.facebook.com/ChileAsamblea-Constituyente-para-una-Nueva-Co
 Movimiento por la Asamblea Constituyente  /  procesoconstituyentechile@gmail.com
 
 <img src="https://fbcdn-photos-e-a.akamaihd.net/hphotos-ak-xfl1/v/t1.0-0/p235x165/11074710_10153969006501397_6057998750832270419_n.jpg?oh=3785cd1f361b207386fd007a161370c7&oe=579195B1&__gda__=1469398831_c48b2fe7c0a7ff35132d704627bd5135" title="Corredora Constituyente Chile" class="img-responsive">
-
-<img src="https://fbcdn-photos-e-a.akamaihd.net/hphotos-ak-xfl1/v/t1.0-0/p235x165/11074710_10153969006501397_6057998750832270419_n.jpg?oh=3785cd1f361b207386fd007a161370c7&oe=579195B1&__gda__=1469398831_c48b2fe7c0a7ff35132d704627bd5135" title="Corredora Constituyente Chile" class="img-responsive">
