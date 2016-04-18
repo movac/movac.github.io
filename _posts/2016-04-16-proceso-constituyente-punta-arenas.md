@@ -7,7 +7,11 @@ categories:
 - noticias
 - portada
 published: true
-image: https://fbcdn-sphotos-b-a.akamaihd.net/hphotos-ak-xap1/t31.0-8/13048190_10154009170866397_5155681624145942905_o.jpg
+image: https://scontent-grt2-1.xx.fbcdn.net/hphotos-xfa1/t31.0-8/13048042_10154012386061397_4991483399195673093_o.jpg
 ---
 
-El coordinador Nacional del Movimiento Asamblea Constituyente expondrá en el FORO SOBRE FORMACION CIUDADANA que convoca la Universidad de Magallanes.
+Magallanes se organiza y prepara sus propios cabildos ciudadanos donde la ciudadanía debatirá acerca del mecanismo más democrático para elaborar una Nueva Constitución: La Asamblea Constituyente.
+
+Gustavo Ruz, Coordinador del Movimiento por la Asamblea Constituyente ha sido invitado por diversas organizaciones para exponer acerca de la necesidad de una Constituyente.
+
+La invitación es abierta, súmate a una de estas actividades e impulsa el verdadero Proceso Constituyente que nos llevará como chilenos a una Constitución hecha por todos.
