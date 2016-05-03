@@ -11,8 +11,7 @@ published: true
 image: https://scontent-gru2-1.xx.fbcdn.net/v/t1.0-9/13082510_10154041334036397_8520673714087069236_n.jpg?oh=d885deee99ea3e2b6f4423cbc1cb6e0f&oe=57A56AEB
 ---
 Convocatoria oficial: 
-El 11 de julio el PUEBLO SOBERANO
-
+El 11 de julio el PUEBLO SOBERANO: 
 Marcha por la ASAMBLEA CONSTITUYENTE
 
 El 11 de Julio de 1971 Chile nacionalizó el Cobre. por eso evocamos el DÍA DE LA DIGNIDAD NACIONAL Y LA SOLIDARIDAD.
