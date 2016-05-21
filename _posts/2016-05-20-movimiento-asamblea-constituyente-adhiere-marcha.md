@@ -7,7 +7,7 @@ categories:
 - noticias
 - portada
 published: true
-image: https://www.facebook.com/photo.php?fbid=1809026145993747&set=a.1801572130072482.1073741828.100006591360960&type=3
+image: https://scontent-mia1-1.xx.fbcdn.net/v/t1.0-9/13240712_1809026145993747_5220007904801291548_n.jpg?oh=528ecbc125fe1d4b239cd50e298132c2&oe=57DA7A9C
 ---
 
 El Movimiento por la Asamblea Constituyente manifiesta su adhesión a la marcha convocada por diversas organizaciones sociales para el 11 de Julio.
