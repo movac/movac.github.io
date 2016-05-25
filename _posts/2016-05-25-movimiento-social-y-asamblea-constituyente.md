@@ -1,13 +1,13 @@
 ---
 permalink: /noticias/movimiento-social-y-asamblea-constituyente.html
 layout: article_entry
-title: MOVIMIENTO SOCIAL Y ASAMBLEA CONSTITUYENTE.
+title: MOVIMIENTO SOCIAL Y ASAMBLEA CONSTITUYENTE
 author: AC Chile
 categories: 
 - noticias
 - portada
 published: true
-image: 
+image: https://z-1-scontent-mia1-1.xx.fbcdn.net/v/t1.0-9/13241263_1082721105107776_7532422335953906577_n.jpg?oh=d105f3cf8bcd168b80971b2487ed3b82&oe=57E3A169
 ---
 
 Foro Ciudadano, programa de televisión en vivo donde en esta oportunidad se analiza junto a los televidentes cómo la Asamblea Constituyente ha estado siempre en el Movimiento Social chileno y cuáles serían las razones por las cuales marchar hoy como movimiento social por una Asamblea Constituyente. Este 11 de Julio todos a la calle por una Asamblea Constituyente.
