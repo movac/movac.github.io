@@ -7,7 +7,7 @@ categories:
 - noticias
 - portada
 published: true
-image: https://www.google.cl/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwj5orj46ZPOAhWDnJAKHT8XBpwQjRwIBA&url=http%3A%2F%2Fradio.uchile.cl%2F2013%2F02%2F21%2Fgustavo-ruz-seria-la-carta-presidencial-del-movimiento-por-una-asamblea-constituyente%2F&psig=AFQjCNEaZmFv_Y_uuLtbs9KOVH-OULlzyA&ust=1469715208089668
+image: http://radio.uchile.cl/wp-content/uploads/2013/02/Ruz-e1361487290588.jpg
 ---
 
 Ve la entrevista completa aquí.
