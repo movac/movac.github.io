@@ -1,7 +1,7 @@
 ---
 permalink: /noticias/viii-congreso-internaciona-poder-constituyente-en-chile.html
 layout: article_entry
-title: SE REALIZARA EN CHILE VIII CONGRESO INTERNACIONAL: PODER CONSTITUYENTE UNA VÍA PARA ENFRENTAR LA CRISIS MUNDIAL.
+title: SE REALIZARA EN CHILE VIII CONGRESO INTERNACIONAL: PODER CONSTITUYENTE UNA VÍA PARA ENFRENTAR LA CRISIS MUNDIAL
 author: AC Chile
 categories: 
 - noticias
