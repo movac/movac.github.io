@@ -52,6 +52,6 @@ Felipe Portales (Chile), escritor, sociólogo y académico de la Universidad de 
 
 Manel Monsonis (España), activista del movimiento Constituyente español y catalán, promotor del Congreso Internacional.
 
-Salvador Millaleo (Chile), aogado y sociólogo mapuche, académico de la Facultad de Derecho de la Universidad de Chile.
+Salvador Millaleo (Chile), aogado y académico de la Facultad de Derecho de la Universidad de Chile.
 
 Matías Sagredo (Chile), Fundador de la Red de Estudiantes de Chile por la Asamblea Constituyente y promotor del Congreso Internacional.
