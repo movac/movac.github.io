@@ -19,3 +19,6 @@ Matías Sagredo (Chile), Gustavo Ruz (Chile), Miguel Antonio Bernal (Panamá) y 
 <iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FPeriodicoElCiudadano%2Fvideos%2F10153686574547470%2F&show_text=0&width=400" width="800" height="800" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
 
 <iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FPeriodicoElCiudadano%2Fvideos%2F10153688907982470%2F&show_text=0&width=400" width="800" height="800" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
+
+Aquí las ponencias del abogado Jaime Bassa y el economista Jorge Weil.
+<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FPeriodicoElCiudadano%2Fvideos%2F10153688750542470%2F&show_text=0&width=400" width="800" height="800" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
