@@ -7,7 +7,7 @@ categories:
 - noticias
 - portada
 published: true
-image: http://2.bp.blogspot.com/-ghlozgx2HBI/UZ7srt4jyMI/AAAAAAAAAhY/52DDV2Qu-ME/w1200-h630-p-nu/a.c.-gr.jpg
+image: http://www.elciudadano.cl/wp-content/uploads/2016/10/LEONIDAS-2.jpg
 ---
 
 (En Grecia ya se habla de una Asamblea Constituyente)
