@@ -11,8 +11,7 @@ image: http://www.elciudadano.cl/wp-content/uploads/2016/10/LEONIDAS-2.jpg
 ---
 
 (En Grecia ya se habla de una Asamblea Constituyente)
-
-Por Leonidas Vatikiotis, académico griego y economista Phd. Publicado en www.ElCiudadano.cl
+Colmna de Leonidas Vatikiotis, académico griego y economista Phd. Publicado en www.ElCiudadano.cl
 
 Un año después del victorioso referéndum del pueblo griego contra las políticas de austeridad (el 5 de Julio del 2015) y la humillante traición del partido izquierdista SYRIZA (en Agosto del 2015) una pregunta crucial surge por toda Europa:
 
