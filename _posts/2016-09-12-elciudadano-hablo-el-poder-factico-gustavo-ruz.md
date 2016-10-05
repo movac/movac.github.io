@@ -7,7 +7,7 @@ categories:
 - noticias
 - portada
 published: true
-image: https://z-1-scontent-mia1-1.xx.fbcdn.net/v/t1.0-9/12717481_10153224215122470_8955409368800109516_n.png?oh=5bcd1710515be5dce4d3cf6094706db4&oe=5880C87C
+image: http://www.elmostrador.cl/media/2013/09/BancoChile-Luksic_816x544.jpg
 ---
 
 Vea columna de Gustavo Ruz en El Ciudadano TV.
