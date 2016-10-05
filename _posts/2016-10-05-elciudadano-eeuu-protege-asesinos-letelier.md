@@ -7,7 +7,7 @@ categories:
 - noticias
 - portada
 published: true
-image: https://z-1-scontent-mia1-1.xx.fbcdn.net/v/t1.0-9/12717481_10153224215122470_8955409368800109516_n.png?oh=5bcd1710515be5dce4d3cf6094706db4&oe=5880C87C
+image: http://2.bp.blogspot.com/-ghlozgx2HBI/UZ7srt4jyMI/AAAAAAAAAhY/52DDV2Qu-ME/w1200-h630-p-nu/a.c.-gr.jpg
 ---
 
 Nueva columna de Gustavo Ruz en El Ciudadano TV.
