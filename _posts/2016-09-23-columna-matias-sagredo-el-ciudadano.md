@@ -7,7 +7,7 @@ categories:
 - noticias
 - portada
 published: true
-image: https://z-1-scontent-mia1-1.xx.fbcdn.net/v/t1.0-9/12717481_10153224215122470_8955409368800109516_n.png?oh=5bcd1710515be5dce4d3cf6094706db4&oe=5880C87C
+image: http://storage.aula365.com/post/san-martin-chile/images/independencia.jpg
 ---
 
 El 17 de Noviembre de 1817 el pueblo soberano votó y aprobó en referéndum la proclamación de Libertad, Independencia y Soberanía de la patria. Hoy solo una Constituyente puede devolverle al Pueblo la oportunidad de retomar el camino de su Libertad, Soberanía e Independencia absoluta.
